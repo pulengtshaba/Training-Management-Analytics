@@ -1,0 +1,1101 @@
+﻿EmployeeId,FirstName,LastName,Email,HomeBranchId,Department,JobTitle,EmploymentDate,IsActive
+1001,Sibusiso,Molepo,sibusiso.molepo1001@example.com,1,IT,Systems Administrator,2019-06-28,True
+1002,Katlego,Mofokeng,katlego.mofokeng1002@example.com,1,IT,Systems Administrator,2021-09-02,True
+1003,Lerato,Mkhize,lerato.mkhize1003@example.com,1,IT,Business Analyst,2025-07-25,True
+1004,Neo,Molepo,neo.molepo1004@example.com,1,HR,HR Administrator,2020-03-22,True
+1005,Katlego,Ndlovu,katlego.ndlovu1005@example.com,1,Finance,Finance Officer,2021-06-01,True
+1006,Zanele,Mofokeng,zanele.mofokeng1006@example.com,1,Customer Service,Support Agent,2019-07-05,True
+1007,Tebogo,Mokoena,tebogo.mokoena1007@example.com,1,Operations,Operations Officer,2019-06-05,True
+1008,Tumelo,Mkhize,tumelo.mkhize1008@example.com,1,Sales,Sales Administrator,2023-12-07,True
+1009,Tumelo,Mofokeng,tumelo.mofokeng1009@example.com,1,Finance,Financial Analyst,2021-03-25,True
+1010,Tebogo,Mkhize,tebogo.mkhize1010@example.com,1,Operations,Operations Analyst,2025-07-19,True
+1011,Siyabonga,Msimang,siyabonga.msimang1011@example.com,1,Sales,Business Development Officer,2022-01-27,True
+1012,Bongani,Mokoena,bongani.mokoena1012@example.com,1,IT,Support Technician,2020-02-29,True
+1013,Katlego,Nkosi,katlego.nkosi1013@example.com,1,Operations,Team Leader,2026-02-25,True
+1014,Naledi,Mkhize,naledi.mkhize1014@example.com,1,Operations,Coordinator,2022-02-16,True
+1015,Nandi,Mokoena,nandi.mokoena1015@example.com,1,IT,Business Analyst,2021-12-03,True
+1016,Nomsa,Mkhize,nomsa.mkhize1016@example.com,1,HR,HR Administrator,2020-01-03,True
+1017,Zanele,Msimang,zanele.msimang1017@example.com,1,Finance,Financial Analyst,2024-04-09,True
+1018,Boitumelo,Motaung,boitumelo.motaung1018@example.com,1,IT,Systems Administrator,2019-03-30,True
+1019,Tumelo,Mkhwanazi,tumelo.mkhwanazi1019@example.com,1,HR,HR Administrator,2025-02-14,True
+1020,Andile,Mkhize,andile.mkhize1020@example.com,1,Customer Service,Customer Success Officer,2021-03-07,True
+1021,Nomsa,Msimang,nomsa.msimang1021@example.com,1,Customer Service,Support Agent,2024-11-23,True
+1022,Thabo,Msimang,thabo.msimang1022@example.com,1,Customer Service,Team Leader,2024-04-29,True
+1023,Lethabo,Mhlongo,lethabo.mhlongo1023@example.com,1,Customer Service,Team Leader,2018-03-05,True
+1024,Neo,Mabaso,neo.mabaso1024@example.com,1,Customer Service,Customer Service Agent,2020-01-20,True
+1025,Karabo,Khumalo,karabo.khumalo1025@example.com,1,Customer Service,Support Agent,2024-08-14,True
+1026,Palesa,Mkhize,palesa.mkhize1026@example.com,1,Finance,Payroll Administrator,2021-05-22,True
+1027,Refilwe,Ndlovu,refilwe.ndlovu1027@example.com,1,Customer Service,Customer Service Agent,2025-08-19,True
+1028,Tshepo,Zulu,tshepo.zulu1028@example.com,1,IT,Support Technician,2019-12-26,True
+1029,Andile,Mkhize,andile.mkhize1029@example.com,1,HR,Learning Coordinator,2024-05-02,True
+1030,Keitumetse,Mkhwanazi,keitumetse.mkhwanazi1030@example.com,1,Finance,Payroll Administrator,2023-11-28,True
+1031,Tumelo,Mthembu,tumelo.mthembu1031@example.com,1,IT,Support Technician,2023-12-07,True
+1032,Nomsa,Khumalo,nomsa.khumalo1032@example.com,1,IT,Software Developer,2022-04-25,False
+1033,Refilwe,Radebe,refilwe.radebe1033@example.com,1,HR,Learning Coordinator,2020-03-18,True
+1034,Refilwe,Molefe,refilwe.molefe1034@example.com,1,IT,Systems Administrator,2024-10-27,True
+1035,Palesa,Molepo,palesa.molepo1035@example.com,1,IT,Systems Administrator,2022-01-24,True
+1036,Thabo,Molepo,thabo.molepo1036@example.com,1,HR,Learning Coordinator,2020-01-24,True
+1037,Nokuthula,Mkhize,nokuthula.mkhize1037@example.com,1,Finance,Finance Officer,2025-05-06,True
+1038,Keitumetse,Mofokeng,keitumetse.mofokeng1038@example.com,1,Finance,Accountant,2018-08-04,True
+1039,Refilwe,Ndlovu,refilwe.ndlovu1039@example.com,1,Finance,Accountant,2024-02-04,True
+1040,Tshepo,Mokoena,tshepo.mokoena1040@example.com,1,Sales,Business Development Officer,2020-05-11,True
+1041,Nomsa,Maseko,nomsa.maseko1041@example.com,1,Finance,Accountant,2023-08-24,True
+1042,Tebogo,Radebe,tebogo.radebe1042@example.com,1,Customer Service,Team Leader,2021-12-19,True
+1043,Tebogo,Motsoeneng,tebogo.motsoeneng1043@example.com,1,Operations,Operations Officer,2019-03-08,True
+1044,Ayanda,Modise,ayanda.modise1044@example.com,1,Finance,Financial Analyst,2020-08-18,True
+1045,Nokuthula,Modise,nokuthula.modise1045@example.com,1,Operations,Operations Analyst,2018-06-12,True
+1046,Lethabo,Molefe,lethabo.molefe1046@example.com,1,Operations,Operations Officer,2025-08-27,True
+1047,Andile,Molefe,andile.molefe1047@example.com,1,HR,HR Officer,2020-09-24,True
+1048,Sipho,Mhlongo,sipho.mhlongo1048@example.com,1,IT,Business Analyst,2022-09-23,True
+1049,Neo,Molefe,neo.molefe1049@example.com,1,HR,Learning Coordinator,2020-09-11,True
+1050,Lwazi,Motaung,lwazi.motaung1050@example.com,1,Operations,Operations Analyst,2023-12-04,True
+1051,Lethabo,Mokoena,lethabo.mokoena1051@example.com,1,Sales,Business Development Officer,2022-08-13,True
+1052,Nokuthula,Msimang,nokuthula.msimang1052@example.com,1,Customer Service,Support Agent,2020-12-07,True
+1053,Keitumetse,Sithole,keitumetse.sithole1053@example.com,1,IT,Business Analyst,2020-10-03,True
+1054,Mpho,Msimang,mpho.msimang1054@example.com,1,Operations,Operations Analyst,2022-04-10,True
+1055,Nandi,Mokoena,nandi.mokoena1055@example.com,1,IT,Software Developer,2020-12-17,True
+1056,Amahle,Ndlovu,amahle.ndlovu1056@example.com,1,Customer Service,Customer Service Agent,2022-07-21,True
+1057,Katlego,Mokoena,katlego.mokoena1057@example.com,1,HR,Learning Coordinator,2021-11-08,True
+1058,Katlego,Mabena,katlego.mabena1058@example.com,1,Operations,Coordinator,2019-12-21,True
+1059,Neo,Mokoena,neo.mokoena1059@example.com,1,Customer Service,Customer Success Officer,2023-12-22,True
+1060,Tebogo,Nkosi,tebogo.nkosi1060@example.com,1,Customer Service,Team Leader,2021-01-10,True
+1061,Andile,Mabaso,andile.mabaso1061@example.com,1,Operations,Team Leader,2022-10-31,True
+1062,Lesedi,Mokoena,lesedi.mokoena1062@example.com,1,Finance,Accountant,2024-11-15,True
+1063,Zanele,Sithole,zanele.sithole1063@example.com,1,Sales,Business Development Officer,2019-07-23,True
+1064,Boitumelo,Mabunda,boitumelo.mabunda1064@example.com,1,HR,HR Officer,2025-01-17,True
+1065,Kagiso,Mabaso,kagiso.mabaso1065@example.com,1,Finance,Accountant,2025-09-04,True
+1066,Boitumelo,Molepo,boitumelo.molepo1066@example.com,1,Operations,Team Leader,2019-04-16,True
+1067,Zanele,Mabena,zanele.mabena1067@example.com,1,Finance,Financial Analyst,2022-03-22,True
+1068,Lethabo,Motaung,lethabo.motaung1068@example.com,1,Finance,Financial Analyst,2026-03-02,True
+1069,Katlego,Mahlangu,katlego.mahlangu1069@example.com,1,HR,Learning Coordinator,2018-10-28,True
+1070,Karabo,Motaung,karabo.motaung1070@example.com,1,Operations,Operations Officer,2019-07-16,True
+1071,Lesedi,Motsoeneng,lesedi.motsoeneng1071@example.com,1,HR,Learning Coordinator,2024-03-14,True
+1072,Siyabonga,Radebe,siyabonga.radebe1072@example.com,1,Operations,Coordinator,2021-11-20,True
+1073,Lethabo,Modise,lethabo.modise1073@example.com,1,Finance,Financial Analyst,2021-02-25,True
+1074,Mpho,Mhlongo,mpho.mhlongo1074@example.com,1,Sales,Sales Consultant,2019-06-12,True
+1075,Keitumetse,Mahlangu,keitumetse.mahlangu1075@example.com,1,Sales,Sales Consultant,2018-08-29,True
+1076,Anele,Masango,anele.masango1076@example.com,1,Finance,Financial Analyst,2021-03-17,True
+1077,Anele,Ndlovu,anele.ndlovu1077@example.com,1,Operations,Operations Officer,2024-02-03,True
+1078,Keitumetse,Mabunda,keitumetse.mabunda1078@example.com,1,HR,Learning Coordinator,2021-12-22,True
+1079,Tebogo,Mokoena,tebogo.mokoena1079@example.com,1,Customer Service,Customer Service Agent,2024-07-16,True
+1080,Nandi,Mkhize,nandi.mkhize1080@example.com,1,Sales,Business Development Officer,2023-03-01,True
+1081,Tumelo,Mhlongo,tumelo.mhlongo1081@example.com,1,Sales,Account Executive,2022-07-24,True
+1082,Nomsa,Molefe,nomsa.molefe1082@example.com,1,Operations,Team Leader,2025-11-14,True
+1083,Kagiso,Maseko,kagiso.maseko1083@example.com,1,IT,Support Technician,2024-03-16,True
+1084,Neo,Ndlovu,neo.ndlovu1084@example.com,1,Operations,Team Leader,2023-06-14,True
+1085,Nokuthula,Mhlongo,nokuthula.mhlongo1085@example.com,1,Finance,Accountant,2021-01-03,True
+1086,Lwazi,Modise,lwazi.modise1086@example.com,1,Sales,Business Development Officer,2026-02-17,True
+1087,Lethabo,Mhlongo,lethabo.mhlongo1087@example.com,1,HR,Learning Coordinator,2020-09-25,True
+1088,Kagiso,Mokoena,kagiso.mokoena1088@example.com,1,HR,HR Officer,2018-06-04,True
+1089,Nandi,Molefe,nandi.molefe1089@example.com,1,IT,Systems Administrator,2021-01-15,True
+1090,Naledi,Msimang,naledi.msimang1090@example.com,1,Finance,Financial Analyst,2020-03-19,True
+1091,Zanele,Mabunda,zanele.mabunda1091@example.com,1,HR,Talent Specialist,2024-08-28,True
+1092,Katlego,Mabaso,katlego.mabaso1092@example.com,1,HR,HR Officer,2018-08-21,True
+1093,Nomsa,Mabena,nomsa.mabena1093@example.com,1,Finance,Accountant,2019-05-29,True
+1094,Lerato,Zulu,lerato.zulu1094@example.com,1,Sales,Account Executive,2023-04-06,True
+1095,Lethabo,Mokoena,lethabo.mokoena1095@example.com,1,IT,Support Technician,2018-02-17,True
+1096,Neo,Radebe,neo.radebe1096@example.com,1,IT,Software Developer,2020-11-12,True
+1097,Tebogo,Mofokeng,tebogo.mofokeng1097@example.com,1,Finance,Payroll Administrator,2022-07-15,True
+1098,Tebogo,Nkosi,tebogo.nkosi1098@example.com,1,Operations,Coordinator,2022-05-26,True
+1099,Sibusiso,Mabunda,sibusiso.mabunda1099@example.com,1,IT,Systems Administrator,2024-07-05,True
+1100,Tumelo,Mabunda,tumelo.mabunda1100@example.com,1,Finance,Finance Officer,2019-09-22,True
+1101,Karabo,Molepo,karabo.molepo1101@example.com,1,Sales,Business Development Officer,2021-05-11,True
+1102,Katlego,Zulu,katlego.zulu1102@example.com,1,Sales,Business Development Officer,2020-06-26,True
+1103,Katlego,Mofokeng,katlego.mofokeng1103@example.com,1,Finance,Financial Analyst,2019-01-08,True
+1104,Neo,Mthembu,neo.mthembu1104@example.com,1,HR,HR Administrator,2019-08-18,True
+1105,Zanele,Mahlangu,zanele.mahlangu1105@example.com,1,Operations,Coordinator,2020-09-09,True
+1106,Keitumetse,Masango,keitumetse.masango1106@example.com,1,Sales,Sales Administrator,2018-02-10,True
+1107,Sipho,Molepo,sipho.molepo1107@example.com,1,Operations,Operations Officer,2024-02-10,True
+1108,Amahle,Mabaso,amahle.mabaso1108@example.com,1,HR,HR Administrator,2020-02-22,True
+1109,Siyabonga,Khumalo,siyabonga.khumalo1109@example.com,1,Customer Service,Customer Success Officer,2022-09-13,True
+1110,Neo,Dlamini,neo.dlamini1110@example.com,1,Customer Service,Customer Service Agent,2018-04-17,True
+1111,Refilwe,Mthethwa,refilwe.mthethwa1111@example.com,1,Operations,Operations Analyst,2023-11-18,True
+1112,Siyabonga,Mhlongo,siyabonga.mhlongo1112@example.com,1,Customer Service,Team Leader,2020-04-27,True
+1113,Tumelo,Mthembu,tumelo.mthembu1113@example.com,1,Operations,Coordinator,2025-01-11,True
+1114,Amahle,Mabunda,amahle.mabunda1114@example.com,1,IT,Business Analyst,2019-11-18,True
+1115,Bongani,Dlamini,bongani.dlamini1115@example.com,1,HR,HR Administrator,2019-04-18,True
+1116,Sipho,Radebe,sipho.radebe1116@example.com,1,Operations,Team Leader,2025-05-31,True
+1117,Lwazi,Dlamini,lwazi.dlamini1117@example.com,1,Customer Service,Customer Success Officer,2023-10-07,True
+1118,Nokuthula,Maseko,nokuthula.maseko1118@example.com,1,Finance,Finance Officer,2023-04-13,True
+1119,Lerato,Motsoeneng,lerato.motsoeneng1119@example.com,1,Operations,Operations Officer,2022-09-10,True
+1120,Nomsa,Khumalo,nomsa.khumalo1120@example.com,1,HR,HR Officer,2023-06-28,True
+1121,Anele,Nkosi,anele.nkosi1121@example.com,1,Operations,Team Leader,2023-09-07,True
+1122,Tebogo,Maseko,tebogo.maseko1122@example.com,1,Sales,Business Development Officer,2025-12-03,True
+1123,Kagiso,Molefe,kagiso.molefe1123@example.com,1,Operations,Operations Officer,2022-05-06,True
+1124,Tebogo,Khumalo,tebogo.khumalo1124@example.com,1,Finance,Payroll Administrator,2019-06-24,False
+1125,Naledi,Mkhize,naledi.mkhize1125@example.com,1,Sales,Sales Consultant,2025-09-18,True
+1126,Andile,Mabaso,andile.mabaso1126@example.com,1,Sales,Business Development Officer,2020-08-04,True
+1127,Lesedi,Khumalo,lesedi.khumalo1127@example.com,1,Operations,Operations Analyst,2025-12-01,True
+1128,Palesa,Mahlangu,palesa.mahlangu1128@example.com,1,Operations,Coordinator,2024-02-06,True
+1129,Nandi,Motsoeneng,nandi.motsoeneng1129@example.com,1,IT,Business Analyst,2024-11-29,False
+1130,Refilwe,Radebe,refilwe.radebe1130@example.com,1,Finance,Accountant,2024-12-07,True
+1131,Nandi,Khumalo,nandi.khumalo1131@example.com,1,Customer Service,Support Agent,2024-04-21,True
+1132,Sibusiso,Motaung,sibusiso.motaung1132@example.com,1,IT,Software Developer,2019-11-23,True
+1133,Naledi,Khumalo,naledi.khumalo1133@example.com,1,Sales,Business Development Officer,2022-06-03,True
+1134,Thabo,Mthembu,thabo.mthembu1134@example.com,1,Sales,Sales Consultant,2023-03-09,True
+1135,Katlego,Molefe,katlego.molefe1135@example.com,1,Operations,Coordinator,2022-12-23,True
+1136,Sipho,Zulu,sipho.zulu1136@example.com,1,Finance,Financial Analyst,2022-02-25,True
+1137,Lerato,Molefe,lerato.molefe1137@example.com,1,Customer Service,Support Agent,2019-09-25,True
+1138,Lethabo,Maseko,lethabo.maseko1138@example.com,1,Sales,Business Development Officer,2019-03-13,True
+1139,Tshepo,Maseko,tshepo.maseko1139@example.com,1,Operations,Operations Analyst,2018-12-29,True
+1140,Ayanda,Mhlongo,ayanda.mhlongo1140@example.com,1,Sales,Business Development Officer,2025-11-22,False
+1141,Lerato,Mabena,lerato.mabena1141@example.com,1,Sales,Business Development Officer,2025-11-06,True
+1142,Katlego,Ndlovu,katlego.ndlovu1142@example.com,1,Sales,Sales Consultant,2025-03-17,True
+1143,Keitumetse,Mofokeng,keitumetse.mofokeng1143@example.com,1,Customer Service,Customer Success Officer,2023-02-17,True
+1144,Thabo,Nkosi,thabo.nkosi1144@example.com,1,Sales,Sales Consultant,2024-01-14,True
+1145,Tumelo,Motaung,tumelo.motaung1145@example.com,1,Sales,Sales Consultant,2023-06-01,True
+1146,Keitumetse,Modise,keitumetse.modise1146@example.com,1,Customer Service,Customer Success Officer,2018-04-14,True
+1147,Lerato,Mokoena,lerato.mokoena1147@example.com,1,Finance,Accountant,2025-12-24,True
+1148,Naledi,Mahlangu,naledi.mahlangu1148@example.com,1,Sales,Sales Administrator,2018-01-24,True
+1149,Lethabo,Mkhwanazi,lethabo.mkhwanazi1149@example.com,1,Customer Service,Customer Success Officer,2023-07-15,True
+1150,Siyabonga,Nkosi,siyabonga.nkosi1150@example.com,1,Finance,Financial Analyst,2021-10-26,True
+1151,Anele,Zulu,anele.zulu1151@example.com,1,Finance,Payroll Administrator,2019-09-08,True
+1152,Andile,Mabaso,andile.mabaso1152@example.com,1,Operations,Operations Analyst,2022-01-19,True
+1153,Bongani,Sithole,bongani.sithole1153@example.com,1,Customer Service,Customer Service Agent,2022-01-01,True
+1154,Refilwe,Mabaso,refilwe.mabaso1154@example.com,1,HR,HR Administrator,2022-01-12,True
+1155,Amahle,Motsoeneng,amahle.motsoeneng1155@example.com,1,Finance,Payroll Administrator,2018-08-23,True
+1156,Lwazi,Zulu,lwazi.zulu1156@example.com,1,Finance,Financial Analyst,2024-03-31,True
+1157,Keitumetse,Khumalo,keitumetse.khumalo1157@example.com,1,Operations,Operations Analyst,2025-04-08,True
+1158,Lesedi,Mokoena,lesedi.mokoena1158@example.com,1,Operations,Operations Officer,2022-03-15,True
+1159,Bongani,Molefe,bongani.molefe1159@example.com,1,IT,Systems Administrator,2023-12-22,False
+1160,Ayanda,Mabaso,ayanda.mabaso1160@example.com,1,IT,Support Technician,2019-08-29,True
+1161,Lesedi,Molefe,lesedi.molefe1161@example.com,1,Sales,Sales Administrator,2025-09-07,True
+1162,Tshepo,Mokoena,tshepo.mokoena1162@example.com,1,Sales,Sales Administrator,2021-02-21,True
+1163,Mpho,Molefe,mpho.molefe1163@example.com,1,Operations,Operations Officer,2024-07-13,True
+1164,Andile,Mokoena,andile.mokoena1164@example.com,1,Sales,Business Development Officer,2018-04-09,True
+1165,Bongani,Mkhwanazi,bongani.mkhwanazi1165@example.com,1,Finance,Accountant,2024-03-24,True
+1166,Naledi,Motsoeneng,naledi.motsoeneng1166@example.com,1,IT,Software Developer,2024-02-20,True
+1167,Nokuthula,Khumalo,nokuthula.khumalo1167@example.com,1,IT,Systems Administrator,2024-04-13,False
+1168,Bongani,Msimang,bongani.msimang1168@example.com,1,IT,Business Analyst,2023-11-13,True
+1169,Tumelo,Masango,tumelo.masango1169@example.com,1,IT,Systems Administrator,2024-02-17,True
+1170,Anele,Mhlongo,anele.mhlongo1170@example.com,1,HR,HR Administrator,2024-04-21,True
+1171,Lethabo,Mabunda,lethabo.mabunda1171@example.com,1,Sales,Business Development Officer,2024-06-12,True
+1172,Katlego,Molefe,katlego.molefe1172@example.com,1,Finance,Financial Analyst,2021-01-02,True
+1173,Lesedi,Motsoeneng,lesedi.motsoeneng1173@example.com,1,HR,HR Administrator,2020-09-14,True
+1174,Zanele,Dlamini,zanele.dlamini1174@example.com,1,Sales,Sales Consultant,2018-08-19,False
+1175,Lerato,Mkhwanazi,lerato.mkhwanazi1175@example.com,1,Finance,Finance Officer,2021-12-17,True
+1176,Lerato,Mabena,lerato.mabena1176@example.com,1,Operations,Operations Officer,2019-08-28,True
+1177,Lerato,Mthethwa,lerato.mthethwa1177@example.com,1,Sales,Business Development Officer,2020-09-23,True
+1178,Refilwe,Motsoeneng,refilwe.motsoeneng1178@example.com,1,HR,Talent Specialist,2018-12-12,True
+1179,Karabo,Mokoena,karabo.mokoena1179@example.com,1,IT,Systems Administrator,2018-10-29,True
+1180,Lesedi,Molefe,lesedi.molefe1180@example.com,1,Customer Service,Customer Success Officer,2025-12-24,True
+1181,Amahle,Mhlongo,amahle.mhlongo1181@example.com,1,Finance,Financial Analyst,2021-10-01,True
+1182,Ayanda,Mofokeng,ayanda.mofokeng1182@example.com,1,Finance,Finance Officer,2025-07-30,True
+1183,Anele,Mabena,anele.mabena1183@example.com,1,Sales,Business Development Officer,2022-07-06,True
+1184,Refilwe,Ndlovu,refilwe.ndlovu1184@example.com,1,Customer Service,Customer Success Officer,2019-10-16,True
+1185,Sipho,Maseko,sipho.maseko1185@example.com,1,Finance,Payroll Administrator,2020-08-11,True
+1186,Lesedi,Ndlovu,lesedi.ndlovu1186@example.com,1,IT,Business Analyst,2025-10-18,True
+1187,Refilwe,Msimang,refilwe.msimang1187@example.com,1,Finance,Finance Officer,2020-08-17,True
+1188,Andile,Mabena,andile.mabena1188@example.com,1,Sales,Sales Consultant,2025-09-25,True
+1189,Katlego,Motaung,katlego.motaung1189@example.com,1,HR,Learning Coordinator,2020-09-10,True
+1190,Sipho,Mabaso,sipho.mabaso1190@example.com,1,HR,Talent Specialist,2023-12-20,True
+1191,Nomsa,Mkhize,nomsa.mkhize1191@example.com,1,Customer Service,Customer Success Officer,2025-08-24,False
+1192,Lethabo,Mabunda,lethabo.mabunda1192@example.com,1,Customer Service,Team Leader,2019-10-12,True
+1193,Nomsa,Masango,nomsa.masango1193@example.com,1,Sales,Account Executive,2024-03-08,True
+1194,Thabo,Maseko,thabo.maseko1194@example.com,1,Finance,Payroll Administrator,2024-08-09,True
+1195,Kagiso,Ndlovu,kagiso.ndlovu1195@example.com,1,Operations,Operations Analyst,2024-11-23,True
+1196,Katlego,Mthethwa,katlego.mthethwa1196@example.com,1,IT,Systems Administrator,2018-06-02,True
+1197,Nomsa,Mabena,nomsa.mabena1197@example.com,1,Operations,Team Leader,2026-01-10,True
+1198,Anele,Motsoeneng,anele.motsoeneng1198@example.com,1,Operations,Coordinator,2025-12-01,True
+1199,Zanele,Dlamini,zanele.dlamini1199@example.com,1,Customer Service,Support Agent,2021-09-13,True
+1200,Katlego,Mahlangu,katlego.mahlangu1200@example.com,1,IT,Support Technician,2020-09-13,True
+1201,Tumelo,Mabunda,tumelo.mabunda1201@example.com,1,IT,Systems Administrator,2022-03-07,True
+1202,Boitumelo,Molefe,boitumelo.molefe1202@example.com,1,Sales,Sales Consultant,2018-04-19,True
+1203,Lerato,Msimang,lerato.msimang1203@example.com,1,IT,Business Analyst,2022-02-19,True
+1204,Lwazi,Mahlangu,lwazi.mahlangu1204@example.com,1,IT,Business Analyst,2021-04-14,True
+1205,Lerato,Mthethwa,lerato.mthethwa1205@example.com,1,HR,HR Administrator,2019-07-12,True
+1206,Zanele,Mkhize,zanele.mkhize1206@example.com,1,IT,Systems Administrator,2022-10-04,True
+1207,Palesa,Sithole,palesa.sithole1207@example.com,1,Finance,Payroll Administrator,2022-05-11,True
+1208,Amahle,Modise,amahle.modise1208@example.com,1,HR,HR Administrator,2019-02-06,False
+1209,Refilwe,Mokoena,refilwe.mokoena1209@example.com,1,IT,Systems Administrator,2020-04-26,True
+1210,Nokuthula,Molepo,nokuthula.molepo1210@example.com,1,Customer Service,Team Leader,2020-06-22,True
+1211,Amahle,Mkhize,amahle.mkhize1211@example.com,1,HR,HR Officer,2022-05-31,True
+1212,Nomsa,Mabaso,nomsa.mabaso1212@example.com,1,Operations,Team Leader,2020-02-03,True
+1213,Sibusiso,Mabaso,sibusiso.mabaso1213@example.com,1,Sales,Business Development Officer,2024-05-22,True
+1214,Tumelo,Mabunda,tumelo.mabunda1214@example.com,1,Operations,Operations Officer,2021-05-27,True
+1215,Tumelo,Msimang,tumelo.msimang1215@example.com,1,IT,Software Developer,2019-03-11,True
+1216,Katlego,Dlamini,katlego.dlamini1216@example.com,1,HR,HR Officer,2020-05-22,True
+1217,Karabo,Motaung,karabo.motaung1217@example.com,1,Sales,Business Development Officer,2020-12-06,True
+1218,Naledi,Mkhwanazi,naledi.mkhwanazi1218@example.com,1,Sales,Business Development Officer,2025-01-27,True
+1219,Lethabo,Modise,lethabo.modise1219@example.com,1,IT,Business Analyst,2023-01-04,True
+1220,Tshepo,Motsoeneng,tshepo.motsoeneng1220@example.com,1,Finance,Accountant,2018-05-14,True
+1221,Katlego,Maseko,katlego.maseko1221@example.com,1,Operations,Operations Analyst,2025-10-31,True
+1222,Anele,Modise,anele.modise1222@example.com,1,Operations,Operations Officer,2019-01-29,True
+1223,Zanele,Ndlovu,zanele.ndlovu1223@example.com,1,Customer Service,Customer Success Officer,2022-09-21,True
+1224,Andile,Molefe,andile.molefe1224@example.com,1,Customer Service,Team Leader,2021-09-22,True
+1225,Zanele,Molefe,zanele.molefe1225@example.com,1,HR,HR Officer,2020-06-15,True
+1226,Keitumetse,Mokoena,keitumetse.mokoena1226@example.com,1,Customer Service,Support Agent,2024-08-17,True
+1227,Thabo,Mokoena,thabo.mokoena1227@example.com,1,IT,Business Analyst,2020-04-11,True
+1228,Ayanda,Mokoena,ayanda.mokoena1228@example.com,1,IT,Systems Administrator,2018-10-10,True
+1229,Anele,Mokoena,anele.mokoena1229@example.com,1,Operations,Team Leader,2018-03-13,True
+1230,Nokuthula,Masango,nokuthula.masango1230@example.com,1,Sales,Sales Consultant,2018-11-06,True
+1231,Lerato,Nkosi,lerato.nkosi1231@example.com,1,IT,Software Developer,2021-07-20,True
+1232,Refilwe,Mkhwanazi,refilwe.mkhwanazi1232@example.com,1,Sales,Business Development Officer,2024-10-17,True
+1233,Refilwe,Mkhwanazi,refilwe.mkhwanazi1233@example.com,1,Sales,Business Development Officer,2019-10-15,True
+1234,Naledi,Mokoena,naledi.mokoena1234@example.com,1,Operations,Operations Officer,2025-11-06,True
+1235,Sipho,Radebe,sipho.radebe1235@example.com,1,Customer Service,Support Agent,2021-06-24,True
+1236,Tumelo,Ndlovu,tumelo.ndlovu1236@example.com,1,Customer Service,Customer Success Officer,2024-05-02,True
+1237,Tumelo,Sithole,tumelo.sithole1237@example.com,1,Customer Service,Support Agent,2020-11-22,True
+1238,Lwazi,Nkosi,lwazi.nkosi1238@example.com,1,Sales,Sales Consultant,2018-02-21,True
+1239,Thabo,Mofokeng,thabo.mofokeng1239@example.com,1,Operations,Operations Officer,2021-08-21,True
+1240,Nokuthula,Mkhize,nokuthula.mkhize1240@example.com,1,Finance,Accountant,2019-12-08,True
+1241,Palesa,Mofokeng,palesa.mofokeng1241@example.com,1,Finance,Accountant,2020-12-10,True
+1242,Keitumetse,Mokoena,keitumetse.mokoena1242@example.com,1,Finance,Finance Officer,2020-08-17,True
+1243,Palesa,Mokoena,palesa.mokoena1243@example.com,1,Operations,Operations Officer,2022-07-03,True
+1244,Lethabo,Modise,lethabo.modise1244@example.com,1,IT,Support Technician,2019-10-27,True
+1245,Lwazi,Mahlangu,lwazi.mahlangu1245@example.com,1,Finance,Financial Analyst,2021-04-19,True
+1246,Mpho,Mabena,mpho.mabena1246@example.com,1,Finance,Finance Officer,2018-12-13,True
+1247,Sipho,Masango,sipho.masango1247@example.com,1,Sales,Business Development Officer,2021-01-26,True
+1248,Tebogo,Mkhwanazi,tebogo.mkhwanazi1248@example.com,1,Customer Service,Support Agent,2021-11-01,True
+1249,Andile,Mthethwa,andile.mthethwa1249@example.com,1,Operations,Team Leader,2024-05-09,True
+1250,Lerato,Nkosi,lerato.nkosi1250@example.com,1,Sales,Account Executive,2023-02-21,True
+1251,Lwazi,Maseko,lwazi.maseko1251@example.com,1,Finance,Accountant,2022-03-06,True
+1252,Lesedi,Mabaso,lesedi.mabaso1252@example.com,1,IT,Software Developer,2019-01-04,True
+1253,Nandi,Mabena,nandi.mabena1253@example.com,1,IT,Systems Administrator,2021-09-30,True
+1254,Zanele,Mofokeng,zanele.mofokeng1254@example.com,1,HR,HR Officer,2019-12-12,True
+1255,Lwazi,Mokoena,lwazi.mokoena1255@example.com,1,HR,HR Officer,2019-10-11,True
+1256,Bongani,Mokoena,bongani.mokoena1256@example.com,1,Finance,Payroll Administrator,2019-11-28,True
+1257,Nomsa,Dlamini,nomsa.dlamini1257@example.com,1,Operations,Coordinator,2021-08-13,True
+1258,Tshepo,Mkhwanazi,tshepo.mkhwanazi1258@example.com,1,Customer Service,Support Agent,2024-06-22,True
+1259,Katlego,Molefe,katlego.molefe1259@example.com,1,Sales,Account Executive,2021-02-16,True
+1260,Neo,Mabunda,neo.mabunda1260@example.com,1,IT,Support Technician,2019-10-20,True
+1261,Thabo,Khumalo,thabo.khumalo1261@example.com,1,Operations,Coordinator,2025-11-08,True
+1262,Sibusiso,Nkosi,sibusiso.nkosi1262@example.com,1,IT,Software Developer,2022-12-25,True
+1263,Sibusiso,Mokoena,sibusiso.mokoena1263@example.com,1,Finance,Accountant,2018-02-03,True
+1264,Nomsa,Mkhize,nomsa.mkhize1264@example.com,1,Sales,Business Development Officer,2021-01-07,True
+1265,Lwazi,Mthethwa,lwazi.mthethwa1265@example.com,1,HR,HR Administrator,2020-08-13,True
+1266,Ayanda,Mhlongo,ayanda.mhlongo1266@example.com,1,IT,Support Technician,2024-01-05,True
+1267,Mpho,Mabaso,mpho.mabaso1267@example.com,1,Finance,Payroll Administrator,2021-03-12,True
+1268,Sibusiso,Maseko,sibusiso.maseko1268@example.com,1,Finance,Accountant,2022-01-28,True
+1269,Lesedi,Mthethwa,lesedi.mthethwa1269@example.com,1,Sales,Sales Consultant,2018-03-19,True
+1270,Katlego,Mahlangu,katlego.mahlangu1270@example.com,1,IT,Support Technician,2024-09-20,True
+1271,Keitumetse,Msimang,keitumetse.msimang1271@example.com,1,Sales,Sales Consultant,2022-10-12,True
+1272,Karabo,Modise,karabo.modise1272@example.com,1,HR,HR Administrator,2021-05-26,True
+1273,Sibusiso,Molepo,sibusiso.molepo1273@example.com,1,Operations,Operations Analyst,2020-03-16,True
+1274,Sibusiso,Radebe,sibusiso.radebe1274@example.com,1,Customer Service,Customer Service Agent,2020-01-24,True
+1275,Zanele,Mahlangu,zanele.mahlangu1275@example.com,1,Sales,Sales Consultant,2019-02-10,True
+1276,Amahle,Mthethwa,amahle.mthethwa1276@example.com,1,Customer Service,Support Agent,2025-09-23,True
+1277,Siyabonga,Mabunda,siyabonga.mabunda1277@example.com,1,HR,HR Administrator,2021-09-11,True
+1278,Refilwe,Motaung,refilwe.motaung1278@example.com,1,IT,Systems Administrator,2025-09-01,True
+1279,Lesedi,Motaung,lesedi.motaung1279@example.com,1,Sales,Sales Administrator,2019-09-11,True
+1280,Anele,Mthethwa,anele.mthethwa1280@example.com,1,Operations,Operations Officer,2023-08-08,True
+1281,Lethabo,Ndlovu,lethabo.ndlovu1281@example.com,1,HR,HR Administrator,2020-10-10,True
+1282,Karabo,Mabena,karabo.mabena1282@example.com,1,Sales,Sales Administrator,2022-07-25,True
+1283,Katlego,Nkosi,katlego.nkosi1283@example.com,1,Sales,Sales Consultant,2022-05-20,True
+1284,Tebogo,Nkosi,tebogo.nkosi1284@example.com,1,IT,Systems Administrator,2020-01-04,True
+1285,Tumelo,Ndlovu,tumelo.ndlovu1285@example.com,1,Operations,Operations Officer,2018-08-08,True
+1286,Naledi,Mthethwa,naledi.mthethwa1286@example.com,1,Customer Service,Customer Success Officer,2022-03-22,True
+1287,Sipho,Ndlovu,sipho.ndlovu1287@example.com,1,HR,HR Administrator,2024-10-07,True
+1288,Tebogo,Radebe,tebogo.radebe1288@example.com,1,Sales,Business Development Officer,2019-10-19,True
+1289,Lesedi,Nkosi,lesedi.nkosi1289@example.com,1,Sales,Account Executive,2022-01-05,True
+1290,Andile,Motaung,andile.motaung1290@example.com,1,Customer Service,Support Agent,2021-11-08,False
+1291,Lerato,Mhlongo,lerato.mhlongo1291@example.com,1,IT,Business Analyst,2024-07-01,True
+1292,Lesedi,Sithole,lesedi.sithole1292@example.com,1,Operations,Team Leader,2018-02-08,True
+1293,Palesa,Mthethwa,palesa.mthethwa1293@example.com,1,Customer Service,Customer Service Agent,2024-06-18,True
+1294,Nomsa,Mokoena,nomsa.mokoena1294@example.com,1,HR,Learning Coordinator,2018-06-28,True
+1295,Tumelo,Khumalo,tumelo.khumalo1295@example.com,1,Sales,Sales Administrator,2019-10-19,True
+1296,Nomsa,Zulu,nomsa.zulu1296@example.com,1,Operations,Coordinator,2025-02-20,True
+1297,Lwazi,Mabunda,lwazi.mabunda1297@example.com,1,IT,Systems Administrator,2021-12-19,True
+1298,Neo,Dlamini,neo.dlamini1298@example.com,1,Operations,Operations Analyst,2020-02-25,True
+1299,Kagiso,Mabena,kagiso.mabena1299@example.com,1,Operations,Team Leader,2021-12-18,True
+1300,Zanele,Mokoena,zanele.mokoena1300@example.com,1,Operations,Operations Officer,2019-12-23,True
+1301,Neo,Molefe,neo.molefe1301@example.com,2,IT,Business Analyst,2021-04-15,True
+1302,Lerato,Mokoena,lerato.mokoena1302@example.com,2,Finance,Payroll Administrator,2021-05-20,True
+1303,Nokuthula,Msimang,nokuthula.msimang1303@example.com,2,Customer Service,Support Agent,2025-09-14,True
+1304,Kagiso,Mabunda,kagiso.mabunda1304@example.com,2,Finance,Payroll Administrator,2019-05-14,True
+1305,Tebogo,Mokoena,tebogo.mokoena1305@example.com,2,HR,Talent Specialist,2021-01-10,True
+1306,Ayanda,Mofokeng,ayanda.mofokeng1306@example.com,2,Sales,Sales Administrator,2018-01-04,True
+1307,Nandi,Molepo,nandi.molepo1307@example.com,2,HR,HR Officer,2019-09-09,True
+1308,Anele,Mofokeng,anele.mofokeng1308@example.com,2,Finance,Financial Analyst,2022-09-03,True
+1309,Keitumetse,Mahlangu,keitumetse.mahlangu1309@example.com,2,HR,Talent Specialist,2018-08-28,True
+1310,Bongani,Mhlongo,bongani.mhlongo1310@example.com,2,IT,Systems Administrator,2025-09-11,True
+1311,Amahle,Molefe,amahle.molefe1311@example.com,2,Sales,Sales Consultant,2022-01-17,True
+1312,Lerato,Mkhwanazi,lerato.mkhwanazi1312@example.com,2,IT,Software Developer,2022-03-29,True
+1313,Boitumelo,Dlamini,boitumelo.dlamini1313@example.com,2,HR,HR Officer,2026-01-27,True
+1314,Ayanda,Msimang,ayanda.msimang1314@example.com,2,IT,Business Analyst,2025-01-12,True
+1315,Karabo,Nkosi,karabo.nkosi1315@example.com,2,IT,Support Technician,2018-12-27,True
+1316,Tumelo,Mabunda,tumelo.mabunda1316@example.com,2,Finance,Payroll Administrator,2020-07-20,True
+1317,Bongani,Zulu,bongani.zulu1317@example.com,2,Sales,Sales Consultant,2019-12-11,True
+1318,Anele,Modise,anele.modise1318@example.com,2,HR,HR Officer,2020-04-21,True
+1319,Boitumelo,Sithole,boitumelo.sithole1319@example.com,2,Sales,Account Executive,2024-06-18,True
+1320,Andile,Motaung,andile.motaung1320@example.com,2,Finance,Accountant,2018-12-21,True
+1321,Neo,Ndlovu,neo.ndlovu1321@example.com,2,Operations,Coordinator,2024-07-13,True
+1322,Tshepo,Zulu,tshepo.zulu1322@example.com,2,HR,HR Officer,2022-02-02,True
+1323,Nomsa,Mabena,nomsa.mabena1323@example.com,2,Finance,Payroll Administrator,2025-10-28,True
+1324,Palesa,Mahlangu,palesa.mahlangu1324@example.com,2,HR,HR Administrator,2018-05-25,True
+1325,Boitumelo,Radebe,boitumelo.radebe1325@example.com,2,Finance,Finance Officer,2018-02-09,True
+1326,Karabo,Modise,karabo.modise1326@example.com,2,HR,HR Administrator,2020-09-23,True
+1327,Katlego,Nkosi,katlego.nkosi1327@example.com,2,Finance,Finance Officer,2024-01-29,True
+1328,Sipho,Molefe,sipho.molefe1328@example.com,2,Customer Service,Customer Service Agent,2018-07-13,True
+1329,Andile,Ndlovu,andile.ndlovu1329@example.com,2,Finance,Finance Officer,2023-06-24,True
+1330,Lesedi,Mabaso,lesedi.mabaso1330@example.com,2,Operations,Team Leader,2026-01-28,True
+1331,Thabo,Sithole,thabo.sithole1331@example.com,2,Operations,Coordinator,2025-01-01,True
+1332,Boitumelo,Motsoeneng,boitumelo.motsoeneng1332@example.com,2,Operations,Operations Analyst,2021-08-22,True
+1333,Neo,Mabaso,neo.mabaso1333@example.com,2,Customer Service,Customer Success Officer,2026-01-11,True
+1334,Boitumelo,Ndlovu,boitumelo.ndlovu1334@example.com,2,Sales,Sales Consultant,2021-08-03,True
+1335,Lethabo,Ndlovu,lethabo.ndlovu1335@example.com,2,Sales,Sales Consultant,2025-10-28,True
+1336,Nomsa,Mokoena,nomsa.mokoena1336@example.com,2,IT,Business Analyst,2019-10-19,True
+1337,Lwazi,Modise,lwazi.modise1337@example.com,2,Finance,Payroll Administrator,2021-04-06,True
+1338,Lerato,Ndlovu,lerato.ndlovu1338@example.com,2,HR,Learning Coordinator,2026-02-07,False
+1339,Lwazi,Mabunda,lwazi.mabunda1339@example.com,2,IT,Software Developer,2025-02-10,True
+1340,Boitumelo,Mabunda,boitumelo.mabunda1340@example.com,2,IT,Software Developer,2019-06-29,True
+1341,Palesa,Mokoena,palesa.mokoena1341@example.com,2,Finance,Payroll Administrator,2023-01-30,True
+1342,Siyabonga,Mokoena,siyabonga.mokoena1342@example.com,2,Operations,Coordinator,2019-07-29,True
+1343,Lesedi,Mokoena,lesedi.mokoena1343@example.com,2,Customer Service,Team Leader,2025-09-23,True
+1344,Andile,Maseko,andile.maseko1344@example.com,2,Sales,Sales Administrator,2025-09-17,True
+1345,Kagiso,Mabaso,kagiso.mabaso1345@example.com,2,Finance,Payroll Administrator,2019-05-29,True
+1346,Neo,Mthethwa,neo.mthethwa1346@example.com,2,Operations,Operations Analyst,2023-03-18,True
+1347,Lethabo,Masango,lethabo.masango1347@example.com,2,HR,HR Administrator,2024-06-11,True
+1348,Bongani,Mabena,bongani.mabena1348@example.com,2,Finance,Payroll Administrator,2019-07-08,True
+1349,Tebogo,Mahlangu,tebogo.mahlangu1349@example.com,2,HR,Talent Specialist,2021-09-08,True
+1350,Boitumelo,Mabaso,boitumelo.mabaso1350@example.com,2,HR,Talent Specialist,2020-02-08,True
+1351,Zanele,Sithole,zanele.sithole1351@example.com,2,Finance,Financial Analyst,2023-09-02,True
+1352,Nokuthula,Mkhize,nokuthula.mkhize1352@example.com,2,Customer Service,Team Leader,2022-05-04,True
+1353,Anele,Mabena,anele.mabena1353@example.com,2,Sales,Account Executive,2020-03-28,True
+1354,Keitumetse,Mokoena,keitumetse.mokoena1354@example.com,2,Customer Service,Customer Success Officer,2021-04-01,True
+1355,Boitumelo,Mokoena,boitumelo.mokoena1355@example.com,2,Sales,Sales Consultant,2023-04-03,False
+1356,Ayanda,Molepo,ayanda.molepo1356@example.com,2,Customer Service,Customer Service Agent,2020-01-05,True
+1357,Lwazi,Mokoena,lwazi.mokoena1357@example.com,2,HR,HR Officer,2020-01-14,True
+1358,Nomsa,Molefe,nomsa.molefe1358@example.com,2,HR,Talent Specialist,2021-11-07,True
+1359,Neo,Nkosi,neo.nkosi1359@example.com,2,Customer Service,Customer Success Officer,2018-08-21,True
+1360,Lesedi,Mhlongo,lesedi.mhlongo1360@example.com,2,Sales,Account Executive,2025-06-06,True
+1361,Mpho,Sithole,mpho.sithole1361@example.com,2,IT,Software Developer,2022-05-30,True
+1362,Neo,Molefe,neo.molefe1362@example.com,2,Operations,Operations Officer,2022-12-01,True
+1363,Siyabonga,Mabena,siyabonga.mabena1363@example.com,2,HR,HR Administrator,2025-04-27,True
+1364,Nandi,Modise,nandi.modise1364@example.com,2,Finance,Accountant,2021-11-18,True
+1365,Lwazi,Maseko,lwazi.maseko1365@example.com,2,Finance,Accountant,2025-10-21,True
+1366,Anele,Molepo,anele.molepo1366@example.com,2,Finance,Finance Officer,2021-12-26,True
+1367,Lesedi,Mokoena,lesedi.mokoena1367@example.com,2,Operations,Operations Officer,2025-04-08,True
+1368,Lwazi,Nkosi,lwazi.nkosi1368@example.com,2,IT,Support Technician,2022-04-28,True
+1369,Thabo,Mokoena,thabo.mokoena1369@example.com,2,IT,Business Analyst,2018-12-31,True
+1370,Mpho,Mokoena,mpho.mokoena1370@example.com,2,HR,HR Administrator,2021-09-03,True
+1371,Karabo,Mabena,karabo.mabena1371@example.com,2,Finance,Finance Officer,2022-04-23,True
+1372,Sibusiso,Molefe,sibusiso.molefe1372@example.com,2,Finance,Payroll Administrator,2025-06-11,True
+1373,Lerato,Radebe,lerato.radebe1373@example.com,2,HR,Talent Specialist,2018-10-01,True
+1374,Sipho,Molefe,sipho.molefe1374@example.com,2,Operations,Operations Analyst,2025-08-16,True
+1375,Sipho,Maseko,sipho.maseko1375@example.com,2,Sales,Sales Consultant,2022-05-23,True
+1376,Palesa,Ndlovu,palesa.ndlovu1376@example.com,2,Finance,Finance Officer,2018-03-26,True
+1377,Tebogo,Mokoena,tebogo.mokoena1377@example.com,2,HR,HR Officer,2025-03-22,True
+1378,Lwazi,Nkosi,lwazi.nkosi1378@example.com,2,IT,Support Technician,2025-03-14,False
+1379,Ayanda,Mahlangu,ayanda.mahlangu1379@example.com,2,HR,Talent Specialist,2022-07-06,True
+1380,Tebogo,Molefe,tebogo.molefe1380@example.com,2,Customer Service,Team Leader,2024-01-27,True
+1381,Tumelo,Msimang,tumelo.msimang1381@example.com,2,Sales,Account Executive,2019-05-24,True
+1382,Keitumetse,Masango,keitumetse.masango1382@example.com,2,Finance,Financial Analyst,2025-04-06,True
+1383,Mpho,Khumalo,mpho.khumalo1383@example.com,2,Finance,Payroll Administrator,2020-01-28,True
+1384,Bongani,Ndlovu,bongani.ndlovu1384@example.com,2,Finance,Finance Officer,2024-02-01,True
+1385,Neo,Mkhize,neo.mkhize1385@example.com,2,Operations,Team Leader,2022-12-25,True
+1386,Ayanda,Mkhwanazi,ayanda.mkhwanazi1386@example.com,2,IT,Systems Administrator,2021-03-13,True
+1387,Amahle,Molefe,amahle.molefe1387@example.com,2,HR,Talent Specialist,2019-04-28,True
+1388,Naledi,Mokoena,naledi.mokoena1388@example.com,2,Sales,Account Executive,2019-06-23,False
+1389,Palesa,Radebe,palesa.radebe1389@example.com,2,HR,Talent Specialist,2022-03-20,True
+1390,Nomsa,Khumalo,nomsa.khumalo1390@example.com,2,IT,Support Technician,2024-06-11,True
+1391,Thabo,Modise,thabo.modise1391@example.com,2,IT,Business Analyst,2022-01-22,True
+1392,Palesa,Sithole,palesa.sithole1392@example.com,2,Operations,Operations Analyst,2025-11-09,True
+1393,Ayanda,Molefe,ayanda.molefe1393@example.com,2,Operations,Operations Officer,2021-09-29,True
+1394,Zanele,Maseko,zanele.maseko1394@example.com,2,Operations,Team Leader,2019-04-18,True
+1395,Naledi,Mabena,naledi.mabena1395@example.com,2,Sales,Sales Consultant,2018-08-03,True
+1396,Amahle,Zulu,amahle.zulu1396@example.com,2,IT,Support Technician,2022-11-29,True
+1397,Katlego,Mokoena,katlego.mokoena1397@example.com,2,Finance,Payroll Administrator,2018-06-22,True
+1398,Andile,Mahlangu,andile.mahlangu1398@example.com,2,Customer Service,Customer Service Agent,2020-03-02,False
+1399,Zanele,Msimang,zanele.msimang1399@example.com,2,IT,Support Technician,2019-10-17,True
+1400,Karabo,Motsoeneng,karabo.motsoeneng1400@example.com,2,Finance,Accountant,2024-04-10,True
+1401,Tshepo,Mthembu,tshepo.mthembu1401@example.com,2,Finance,Payroll Administrator,2020-04-05,True
+1402,Naledi,Molefe,naledi.molefe1402@example.com,2,Finance,Accountant,2025-01-17,True
+1403,Andile,Dlamini,andile.dlamini1403@example.com,2,Customer Service,Team Leader,2020-04-05,True
+1404,Nokuthula,Zulu,nokuthula.zulu1404@example.com,2,Customer Service,Support Agent,2020-08-29,True
+1405,Boitumelo,Mokoena,boitumelo.mokoena1405@example.com,2,HR,HR Administrator,2024-04-16,True
+1406,Ayanda,Zulu,ayanda.zulu1406@example.com,2,Operations,Coordinator,2020-02-22,True
+1407,Nandi,Mthethwa,nandi.mthethwa1407@example.com,2,Customer Service,Customer Success Officer,2018-06-18,True
+1408,Nandi,Dlamini,nandi.dlamini1408@example.com,2,Customer Service,Customer Success Officer,2018-08-10,True
+1409,Naledi,Ndlovu,naledi.ndlovu1409@example.com,2,IT,Software Developer,2025-05-20,True
+1410,Bongani,Zulu,bongani.zulu1410@example.com,2,Operations,Operations Officer,2025-02-09,True
+1411,Tshepo,Sithole,tshepo.sithole1411@example.com,2,Operations,Team Leader,2025-09-11,True
+1412,Palesa,Sithole,palesa.sithole1412@example.com,2,Sales,Sales Administrator,2019-03-12,True
+1413,Nomsa,Mkhwanazi,nomsa.mkhwanazi1413@example.com,2,IT,Systems Administrator,2019-02-16,True
+1414,Andile,Mhlongo,andile.mhlongo1414@example.com,2,Finance,Finance Officer,2019-11-25,True
+1415,Lesedi,Modise,lesedi.modise1415@example.com,2,HR,HR Officer,2025-04-16,True
+1416,Kagiso,Radebe,kagiso.radebe1416@example.com,2,HR,HR Administrator,2018-12-01,True
+1417,Sibusiso,Ndlovu,sibusiso.ndlovu1417@example.com,2,Operations,Operations Officer,2025-06-08,True
+1418,Neo,Mkhize,neo.mkhize1418@example.com,2,Sales,Sales Consultant,2023-10-01,True
+1419,Neo,Radebe,neo.radebe1419@example.com,2,Customer Service,Support Agent,2024-01-24,True
+1420,Nokuthula,Molepo,nokuthula.molepo1420@example.com,2,Operations,Team Leader,2019-05-07,False
+1421,Lesedi,Msimang,lesedi.msimang1421@example.com,2,Customer Service,Customer Service Agent,2022-10-28,True
+1422,Lerato,Ndlovu,lerato.ndlovu1422@example.com,2,IT,Business Analyst,2024-02-21,True
+1423,Karabo,Masango,karabo.masango1423@example.com,2,Sales,Business Development Officer,2020-03-05,True
+1424,Siyabonga,Molefe,siyabonga.molefe1424@example.com,2,HR,Learning Coordinator,2018-06-13,True
+1425,Bongani,Radebe,bongani.radebe1425@example.com,2,Operations,Coordinator,2025-10-16,True
+1426,Tebogo,Mokoena,tebogo.mokoena1426@example.com,2,Finance,Financial Analyst,2022-08-23,True
+1427,Mpho,Mahlangu,mpho.mahlangu1427@example.com,2,Customer Service,Support Agent,2023-09-06,True
+1428,Kagiso,Mokoena,kagiso.mokoena1428@example.com,2,Sales,Business Development Officer,2022-10-13,True
+1429,Refilwe,Molepo,refilwe.molepo1429@example.com,2,Finance,Finance Officer,2020-04-28,True
+1430,Tumelo,Molepo,tumelo.molepo1430@example.com,2,Operations,Operations Officer,2019-03-17,True
+1431,Ayanda,Nkosi,ayanda.nkosi1431@example.com,2,IT,Support Technician,2025-12-13,True
+1432,Mpho,Modise,mpho.modise1432@example.com,2,Operations,Operations Analyst,2022-09-07,False
+1433,Sibusiso,Zulu,sibusiso.zulu1433@example.com,2,Sales,Business Development Officer,2018-12-30,True
+1434,Kagiso,Mhlongo,kagiso.mhlongo1434@example.com,2,HR,HR Officer,2025-01-11,True
+1435,Mpho,Zulu,mpho.zulu1435@example.com,2,Customer Service,Customer Service Agent,2025-08-22,True
+1436,Tshepo,Mofokeng,tshepo.mofokeng1436@example.com,2,IT,Systems Administrator,2025-10-07,True
+1437,Nokuthula,Mabena,nokuthula.mabena1437@example.com,2,Sales,Account Executive,2021-01-23,True
+1438,Karabo,Sithole,karabo.sithole1438@example.com,2,IT,Support Technician,2020-04-14,True
+1439,Tebogo,Msimang,tebogo.msimang1439@example.com,2,Finance,Accountant,2025-05-03,True
+1440,Thabo,Mabaso,thabo.mabaso1440@example.com,2,Customer Service,Support Agent,2020-06-21,True
+1441,Lerato,Mokoena,lerato.mokoena1441@example.com,2,Finance,Payroll Administrator,2023-03-14,True
+1442,Kagiso,Mofokeng,kagiso.mofokeng1442@example.com,2,Sales,Account Executive,2025-02-14,True
+1443,Lwazi,Zulu,lwazi.zulu1443@example.com,2,Customer Service,Customer Service Agent,2023-11-30,True
+1444,Tumelo,Mabaso,tumelo.mabaso1444@example.com,2,Customer Service,Team Leader,2024-08-24,True
+1445,Boitumelo,Mkhwanazi,boitumelo.mkhwanazi1445@example.com,2,IT,Support Technician,2019-05-13,True
+1446,Lesedi,Molefe,lesedi.molefe1446@example.com,2,IT,Software Developer,2020-01-11,True
+1447,Karabo,Mokoena,karabo.mokoena1447@example.com,2,Operations,Operations Analyst,2022-08-18,True
+1448,Nomsa,Mabunda,nomsa.mabunda1448@example.com,2,Sales,Account Executive,2023-05-05,True
+1449,Katlego,Zulu,katlego.zulu1449@example.com,2,HR,Learning Coordinator,2024-10-24,True
+1450,Neo,Mahlangu,neo.mahlangu1450@example.com,2,HR,HR Officer,2018-01-12,True
+1451,Nandi,Motaung,nandi.motaung1451@example.com,2,HR,HR Officer,2019-11-17,True
+1452,Tshepo,Mokoena,tshepo.mokoena1452@example.com,2,Sales,Business Development Officer,2023-05-19,True
+1453,Sipho,Mkhwanazi,sipho.mkhwanazi1453@example.com,2,Sales,Business Development Officer,2019-10-01,True
+1454,Refilwe,Dlamini,refilwe.dlamini1454@example.com,2,HR,HR Administrator,2019-06-04,True
+1455,Mpho,Maseko,mpho.maseko1455@example.com,2,IT,Support Technician,2021-07-13,False
+1456,Ayanda,Molepo,ayanda.molepo1456@example.com,2,Finance,Finance Officer,2023-07-14,True
+1457,Nomsa,Mkhize,nomsa.mkhize1457@example.com,2,IT,Support Technician,2023-11-28,True
+1458,Lwazi,Mhlongo,lwazi.mhlongo1458@example.com,2,Sales,Business Development Officer,2021-11-10,False
+1459,Boitumelo,Sithole,boitumelo.sithole1459@example.com,2,Finance,Payroll Administrator,2023-03-21,True
+1460,Keitumetse,Mkhwanazi,keitumetse.mkhwanazi1460@example.com,2,Customer Service,Team Leader,2022-08-19,True
+1461,Siyabonga,Molefe,siyabonga.molefe1461@example.com,2,Sales,Business Development Officer,2021-04-01,True
+1462,Naledi,Zulu,naledi.zulu1462@example.com,2,Sales,Account Executive,2021-06-21,True
+1463,Lerato,Mabena,lerato.mabena1463@example.com,2,IT,Business Analyst,2018-06-11,False
+1464,Tumelo,Zulu,tumelo.zulu1464@example.com,2,IT,Business Analyst,2022-08-15,True
+1465,Nokuthula,Mabunda,nokuthula.mabunda1465@example.com,2,Operations,Team Leader,2020-07-13,True
+1466,Tebogo,Mofokeng,tebogo.mofokeng1466@example.com,2,Finance,Finance Officer,2022-09-12,True
+1467,Karabo,Mabena,karabo.mabena1467@example.com,2,Operations,Operations Analyst,2020-12-22,True
+1468,Kagiso,Mokoena,kagiso.mokoena1468@example.com,2,HR,HR Administrator,2021-04-23,True
+1469,Sibusiso,Mabunda,sibusiso.mabunda1469@example.com,2,Finance,Accountant,2022-10-22,True
+1470,Siyabonga,Mabunda,siyabonga.mabunda1470@example.com,2,Finance,Accountant,2019-06-13,True
+1471,Tshepo,Radebe,tshepo.radebe1471@example.com,2,Operations,Team Leader,2024-03-05,True
+1472,Kagiso,Molefe,kagiso.molefe1472@example.com,2,Sales,Sales Consultant,2022-05-25,True
+1473,Bongani,Mabunda,bongani.mabunda1473@example.com,2,Operations,Operations Officer,2022-12-16,True
+1474,Lethabo,Radebe,lethabo.radebe1474@example.com,2,IT,Support Technician,2019-11-08,True
+1475,Lesedi,Mokoena,lesedi.mokoena1475@example.com,2,Operations,Operations Officer,2024-02-12,True
+1476,Ayanda,Mthethwa,ayanda.mthethwa1476@example.com,2,Operations,Team Leader,2023-10-23,True
+1477,Palesa,Zulu,palesa.zulu1477@example.com,2,IT,Software Developer,2023-04-12,True
+1478,Tshepo,Motsoeneng,tshepo.motsoeneng1478@example.com,2,Finance,Finance Officer,2021-08-11,True
+1479,Nandi,Mokoena,nandi.mokoena1479@example.com,2,IT,Software Developer,2018-03-23,True
+1480,Boitumelo,Radebe,boitumelo.radebe1480@example.com,2,Customer Service,Customer Success Officer,2021-10-09,True
+1481,Tumelo,Mokoena,tumelo.mokoena1481@example.com,2,Customer Service,Customer Success Officer,2020-01-29,True
+1482,Tshepo,Radebe,tshepo.radebe1482@example.com,2,Sales,Account Executive,2018-09-13,False
+1483,Bongani,Maseko,bongani.maseko1483@example.com,2,Finance,Financial Analyst,2025-10-01,True
+1484,Naledi,Mabunda,naledi.mabunda1484@example.com,2,Customer Service,Customer Service Agent,2022-08-07,True
+1485,Nokuthula,Msimang,nokuthula.msimang1485@example.com,2,Finance,Payroll Administrator,2024-07-06,True
+1486,Keitumetse,Mthethwa,keitumetse.mthethwa1486@example.com,2,IT,Systems Administrator,2019-10-15,True
+1487,Kagiso,Msimang,kagiso.msimang1487@example.com,2,Operations,Coordinator,2022-08-05,False
+1488,Neo,Mkhize,neo.mkhize1488@example.com,2,Finance,Accountant,2021-06-17,False
+1489,Naledi,Zulu,naledi.zulu1489@example.com,2,Customer Service,Customer Success Officer,2025-10-11,True
+1490,Refilwe,Molefe,refilwe.molefe1490@example.com,2,Operations,Operations Officer,2020-04-21,True
+1491,Tshepo,Sithole,tshepo.sithole1491@example.com,2,IT,Systems Administrator,2024-04-19,True
+1492,Lesedi,Mokoena,lesedi.mokoena1492@example.com,2,Operations,Team Leader,2018-08-16,True
+1493,Andile,Radebe,andile.radebe1493@example.com,2,Customer Service,Customer Service Agent,2025-08-18,True
+1494,Karabo,Mthembu,karabo.mthembu1494@example.com,2,Customer Service,Customer Service Agent,2019-11-09,True
+1495,Kagiso,Mokoena,kagiso.mokoena1495@example.com,2,HR,Learning Coordinator,2024-04-29,True
+1496,Lwazi,Nkosi,lwazi.nkosi1496@example.com,2,Customer Service,Customer Service Agent,2025-11-24,True
+1497,Nokuthula,Mabunda,nokuthula.mabunda1497@example.com,2,Operations,Operations Analyst,2019-03-30,True
+1498,Katlego,Motaung,katlego.motaung1498@example.com,2,Sales,Account Executive,2018-06-02,True
+1499,Nomsa,Mahlangu,nomsa.mahlangu1499@example.com,2,Sales,Business Development Officer,2018-05-19,False
+1500,Katlego,Molefe,katlego.molefe1500@example.com,2,IT,Support Technician,2025-07-01,True
+1501,Sibusiso,Mkhwanazi,sibusiso.mkhwanazi1501@example.com,2,Finance,Accountant,2021-03-19,True
+1502,Lesedi,Nkosi,lesedi.nkosi1502@example.com,2,IT,Systems Administrator,2020-11-30,True
+1503,Amahle,Molepo,amahle.molepo1503@example.com,2,Operations,Operations Officer,2021-10-18,True
+1504,Tshepo,Dlamini,tshepo.dlamini1504@example.com,2,Customer Service,Customer Service Agent,2018-11-03,True
+1505,Nomsa,Motsoeneng,nomsa.motsoeneng1505@example.com,2,Sales,Sales Administrator,2021-06-09,False
+1506,Tebogo,Dlamini,tebogo.dlamini1506@example.com,2,Sales,Business Development Officer,2024-12-31,True
+1507,Nokuthula,Mokoena,nokuthula.mokoena1507@example.com,2,Customer Service,Team Leader,2021-10-02,True
+1508,Refilwe,Mkhwanazi,refilwe.mkhwanazi1508@example.com,2,IT,Systems Administrator,2023-06-27,True
+1509,Bongani,Mokoena,bongani.mokoena1509@example.com,2,IT,Support Technician,2020-06-16,True
+1510,Neo,Mthethwa,neo.mthethwa1510@example.com,2,Customer Service,Customer Service Agent,2018-09-14,True
+1511,Naledi,Nkosi,naledi.nkosi1511@example.com,2,IT,Software Developer,2025-08-14,True
+1512,Andile,Mokoena,andile.mokoena1512@example.com,2,Sales,Sales Administrator,2020-05-07,False
+1513,Zanele,Motaung,zanele.motaung1513@example.com,2,IT,Business Analyst,2024-06-30,True
+1514,Ayanda,Msimang,ayanda.msimang1514@example.com,2,Operations,Operations Analyst,2025-07-20,True
+1515,Palesa,Mokoena,palesa.mokoena1515@example.com,2,IT,Software Developer,2018-03-27,False
+1516,Lesedi,Motsoeneng,lesedi.motsoeneng1516@example.com,2,IT,Software Developer,2024-12-03,True
+1517,Amahle,Modise,amahle.modise1517@example.com,2,Operations,Operations Analyst,2018-12-07,True
+1518,Refilwe,Molefe,refilwe.molefe1518@example.com,2,Sales,Business Development Officer,2024-04-11,True
+1519,Keitumetse,Mahlangu,keitumetse.mahlangu1519@example.com,2,Customer Service,Customer Service Agent,2023-09-20,True
+1520,Anele,Mabaso,anele.mabaso1520@example.com,2,Customer Service,Team Leader,2024-06-06,True
+1521,Palesa,Masango,palesa.masango1521@example.com,3,HR,Learning Coordinator,2023-07-25,True
+1522,Sibusiso,Mabena,sibusiso.mabena1522@example.com,3,HR,Learning Coordinator,2022-05-04,True
+1523,Refilwe,Mofokeng,refilwe.mofokeng1523@example.com,3,Customer Service,Team Leader,2025-12-17,True
+1524,Andile,Mokoena,andile.mokoena1524@example.com,3,Sales,Business Development Officer,2020-02-17,True
+1525,Naledi,Mabunda,naledi.mabunda1525@example.com,3,Finance,Finance Officer,2018-12-10,False
+1526,Tumelo,Mabaso,tumelo.mabaso1526@example.com,3,IT,Business Analyst,2023-08-30,True
+1527,Neo,Modise,neo.modise1527@example.com,3,Operations,Operations Analyst,2022-02-20,True
+1528,Keitumetse,Mthembu,keitumetse.mthembu1528@example.com,3,Sales,Account Executive,2019-04-03,True
+1529,Boitumelo,Mhlongo,boitumelo.mhlongo1529@example.com,3,Finance,Accountant,2021-09-18,True
+1530,Keitumetse,Mokoena,keitumetse.mokoena1530@example.com,3,HR,HR Administrator,2021-01-12,True
+1531,Mpho,Molefe,mpho.molefe1531@example.com,3,Customer Service,Support Agent,2025-02-13,True
+1532,Kagiso,Mthembu,kagiso.mthembu1532@example.com,3,Finance,Finance Officer,2022-02-20,True
+1533,Mpho,Masango,mpho.masango1533@example.com,3,Customer Service,Customer Service Agent,2023-04-08,True
+1534,Tebogo,Molefe,tebogo.molefe1534@example.com,3,Sales,Business Development Officer,2021-02-05,True
+1535,Andile,Motaung,andile.motaung1535@example.com,3,Finance,Finance Officer,2020-12-27,True
+1536,Lethabo,Mokoena,lethabo.mokoena1536@example.com,3,Finance,Payroll Administrator,2024-06-06,True
+1537,Katlego,Mabunda,katlego.mabunda1537@example.com,3,Finance,Accountant,2018-12-07,True
+1538,Bongani,Modise,bongani.modise1538@example.com,3,IT,Software Developer,2023-01-10,True
+1539,Neo,Molefe,neo.molefe1539@example.com,3,IT,Systems Administrator,2024-08-02,True
+1540,Ayanda,Khumalo,ayanda.khumalo1540@example.com,3,Operations,Operations Analyst,2020-01-28,False
+1541,Keitumetse,Mokoena,keitumetse.mokoena1541@example.com,3,IT,Support Technician,2020-11-08,True
+1542,Neo,Mkhwanazi,neo.mkhwanazi1542@example.com,3,Customer Service,Support Agent,2020-04-26,True
+1543,Lerato,Mabaso,lerato.mabaso1543@example.com,3,Finance,Accountant,2023-04-12,True
+1544,Bongani,Mabena,bongani.mabena1544@example.com,3,Customer Service,Customer Success Officer,2022-10-04,True
+1545,Zanele,Motaung,zanele.motaung1545@example.com,3,Finance,Financial Analyst,2025-04-17,True
+1546,Lerato,Msimang,lerato.msimang1546@example.com,3,Finance,Financial Analyst,2026-02-15,True
+1547,Lerato,Mthembu,lerato.mthembu1547@example.com,3,Operations,Team Leader,2018-10-31,True
+1548,Lwazi,Radebe,lwazi.radebe1548@example.com,3,Customer Service,Customer Service Agent,2019-03-02,True
+1549,Anele,Motsoeneng,anele.motsoeneng1549@example.com,3,Finance,Payroll Administrator,2023-01-17,True
+1550,Lethabo,Khumalo,lethabo.khumalo1550@example.com,3,Operations,Operations Analyst,2022-08-20,True
+1551,Zanele,Mokoena,zanele.mokoena1551@example.com,3,Customer Service,Support Agent,2019-08-25,True
+1552,Zanele,Mhlongo,zanele.mhlongo1552@example.com,3,Finance,Finance Officer,2024-06-26,True
+1553,Thabo,Masango,thabo.masango1553@example.com,3,Sales,Account Executive,2021-07-17,True
+1554,Palesa,Sithole,palesa.sithole1554@example.com,3,Customer Service,Customer Success Officer,2025-04-09,True
+1555,Katlego,Molefe,katlego.molefe1555@example.com,3,Sales,Sales Consultant,2018-10-16,True
+1556,Bongani,Molefe,bongani.molefe1556@example.com,3,Operations,Team Leader,2025-07-03,True
+1557,Lerato,Molefe,lerato.molefe1557@example.com,3,Sales,Account Executive,2020-07-15,True
+1558,Zanele,Zulu,zanele.zulu1558@example.com,3,IT,Software Developer,2018-05-15,True
+1559,Siyabonga,Khumalo,siyabonga.khumalo1559@example.com,3,Sales,Sales Administrator,2025-09-13,True
+1560,Ayanda,Masango,ayanda.masango1560@example.com,3,IT,Support Technician,2019-04-25,True
+1561,Boitumelo,Mkhwanazi,boitumelo.mkhwanazi1561@example.com,3,Operations,Team Leader,2021-04-21,True
+1562,Amahle,Nkosi,amahle.nkosi1562@example.com,3,IT,Software Developer,2019-08-17,True
+1563,Lesedi,Sithole,lesedi.sithole1563@example.com,3,Customer Service,Customer Service Agent,2020-08-14,True
+1564,Tumelo,Mokoena,tumelo.mokoena1564@example.com,3,Customer Service,Team Leader,2025-10-30,True
+1565,Nomsa,Radebe,nomsa.radebe1565@example.com,3,Customer Service,Customer Success Officer,2024-09-11,True
+1566,Mpho,Nkosi,mpho.nkosi1566@example.com,3,Operations,Coordinator,2018-07-16,True
+1567,Thabo,Khumalo,thabo.khumalo1567@example.com,3,IT,Business Analyst,2024-05-04,True
+1568,Lerato,Mokoena,lerato.mokoena1568@example.com,3,Sales,Sales Administrator,2020-10-04,True
+1569,Sibusiso,Mofokeng,sibusiso.mofokeng1569@example.com,3,HR,Talent Specialist,2022-06-22,True
+1570,Andile,Radebe,andile.radebe1570@example.com,3,IT,Systems Administrator,2020-02-18,True
+1571,Naledi,Nkosi,naledi.nkosi1571@example.com,3,Operations,Operations Officer,2024-06-19,True
+1572,Kagiso,Modise,kagiso.modise1572@example.com,3,Sales,Business Development Officer,2022-11-04,True
+1573,Nokuthula,Mkhwanazi,nokuthula.mkhwanazi1573@example.com,3,Sales,Business Development Officer,2018-04-25,True
+1574,Palesa,Sithole,palesa.sithole1574@example.com,3,Operations,Operations Analyst,2024-07-02,True
+1575,Anele,Mkhize,anele.mkhize1575@example.com,3,IT,Systems Administrator,2020-05-06,True
+1576,Lwazi,Mthethwa,lwazi.mthethwa1576@example.com,3,Operations,Coordinator,2023-12-03,True
+1577,Boitumelo,Sithole,boitumelo.sithole1577@example.com,3,IT,Systems Administrator,2018-05-28,True
+1578,Lethabo,Mabaso,lethabo.mabaso1578@example.com,3,Operations,Coordinator,2019-04-27,True
+1579,Sibusiso,Ndlovu,sibusiso.ndlovu1579@example.com,3,Sales,Account Executive,2022-07-09,True
+1580,Nandi,Molefe,nandi.molefe1580@example.com,3,Customer Service,Team Leader,2019-04-12,True
+1581,Tshepo,Masango,tshepo.masango1581@example.com,3,IT,Support Technician,2019-03-13,True
+1582,Neo,Masango,neo.masango1582@example.com,3,HR,Learning Coordinator,2020-09-10,True
+1583,Palesa,Mabena,palesa.mabena1583@example.com,3,HR,Talent Specialist,2025-11-17,True
+1584,Tshepo,Msimang,tshepo.msimang1584@example.com,3,Finance,Financial Analyst,2019-03-03,False
+1585,Zanele,Mhlongo,zanele.mhlongo1585@example.com,3,Sales,Business Development Officer,2021-04-20,True
+1586,Kagiso,Molefe,kagiso.molefe1586@example.com,3,Customer Service,Support Agent,2019-04-11,True
+1587,Katlego,Mokoena,katlego.mokoena1587@example.com,3,Operations,Operations Analyst,2024-02-12,True
+1588,Lesedi,Khumalo,lesedi.khumalo1588@example.com,3,IT,Support Technician,2020-09-02,True
+1589,Tebogo,Masango,tebogo.masango1589@example.com,3,Finance,Financial Analyst,2019-02-23,True
+1590,Boitumelo,Maseko,boitumelo.maseko1590@example.com,3,IT,Business Analyst,2018-12-30,True
+1591,Sipho,Mokoena,sipho.mokoena1591@example.com,3,Finance,Payroll Administrator,2020-10-01,True
+1592,Keitumetse,Mabena,keitumetse.mabena1592@example.com,3,Operations,Team Leader,2024-07-11,True
+1593,Siyabonga,Maseko,siyabonga.maseko1593@example.com,3,IT,Support Technician,2019-06-10,True
+1594,Sipho,Zulu,sipho.zulu1594@example.com,3,HR,Talent Specialist,2021-04-11,True
+1595,Tumelo,Molefe,tumelo.molefe1595@example.com,3,Finance,Financial Analyst,2022-09-06,True
+1596,Kagiso,Mabena,kagiso.mabena1596@example.com,3,HR,HR Administrator,2025-12-11,True
+1597,Tumelo,Motsoeneng,tumelo.motsoeneng1597@example.com,3,Operations,Operations Officer,2019-07-13,True
+1598,Palesa,Nkosi,palesa.nkosi1598@example.com,3,Customer Service,Support Agent,2022-11-01,True
+1599,Nokuthula,Mokoena,nokuthula.mokoena1599@example.com,3,HR,Talent Specialist,2025-02-22,True
+1600,Thabo,Dlamini,thabo.dlamini1600@example.com,3,Customer Service,Customer Success Officer,2020-05-24,False
+1601,Bongani,Mthethwa,bongani.mthethwa1601@example.com,3,Operations,Coordinator,2022-11-16,True
+1602,Lerato,Mhlongo,lerato.mhlongo1602@example.com,3,Operations,Team Leader,2018-10-25,True
+1603,Sipho,Ndlovu,sipho.ndlovu1603@example.com,3,Operations,Operations Officer,2023-10-28,True
+1604,Bongani,Molepo,bongani.molepo1604@example.com,3,Operations,Coordinator,2020-11-01,True
+1605,Sipho,Ndlovu,sipho.ndlovu1605@example.com,3,Sales,Sales Consultant,2019-03-29,True
+1606,Kagiso,Masango,kagiso.masango1606@example.com,3,Operations,Coordinator,2023-04-26,False
+1607,Sipho,Dlamini,sipho.dlamini1607@example.com,3,Finance,Accountant,2025-05-17,True
+1608,Lesedi,Mahlangu,lesedi.mahlangu1608@example.com,3,HR,Talent Specialist,2018-07-14,True
+1609,Lesedi,Mkhwanazi,lesedi.mkhwanazi1609@example.com,3,Sales,Sales Consultant,2023-05-18,True
+1610,Nomsa,Mabaso,nomsa.mabaso1610@example.com,3,Customer Service,Team Leader,2019-06-21,True
+1611,Naledi,Mkhize,naledi.mkhize1611@example.com,3,IT,Software Developer,2020-07-13,True
+1612,Thabo,Mabena,thabo.mabena1612@example.com,3,HR,HR Administrator,2018-08-13,True
+1613,Refilwe,Motsoeneng,refilwe.motsoeneng1613@example.com,3,Customer Service,Customer Service Agent,2026-02-24,True
+1614,Tebogo,Mokoena,tebogo.mokoena1614@example.com,3,IT,Systems Administrator,2024-03-30,True
+1615,Refilwe,Radebe,refilwe.radebe1615@example.com,3,IT,Support Technician,2020-10-04,True
+1616,Boitumelo,Mokoena,boitumelo.mokoena1616@example.com,3,HR,HR Administrator,2024-01-08,True
+1617,Zanele,Masango,zanele.masango1617@example.com,3,HR,HR Officer,2022-02-06,True
+1618,Keitumetse,Nkosi,keitumetse.nkosi1618@example.com,3,Sales,Sales Consultant,2022-04-27,True
+1619,Katlego,Mabunda,katlego.mabunda1619@example.com,3,IT,Support Technician,2020-02-06,True
+1620,Zanele,Modise,zanele.modise1620@example.com,3,Finance,Accountant,2018-06-10,True
+1621,Anele,Masango,anele.masango1621@example.com,3,IT,Business Analyst,2024-05-31,True
+1622,Thabo,Mokoena,thabo.mokoena1622@example.com,3,Customer Service,Team Leader,2025-11-22,True
+1623,Andile,Mabaso,andile.mabaso1623@example.com,3,Customer Service,Customer Service Agent,2019-06-29,True
+1624,Amahle,Radebe,amahle.radebe1624@example.com,3,Operations,Operations Analyst,2021-11-01,False
+1625,Palesa,Mokoena,palesa.mokoena1625@example.com,3,HR,HR Officer,2023-05-06,True
+1626,Sibusiso,Mokoena,sibusiso.mokoena1626@example.com,3,Operations,Operations Officer,2022-04-11,True
+1627,Keitumetse,Mofokeng,keitumetse.mofokeng1627@example.com,3,IT,Software Developer,2019-07-08,True
+1628,Amahle,Nkosi,amahle.nkosi1628@example.com,3,Customer Service,Customer Success Officer,2018-12-11,True
+1629,Lethabo,Maseko,lethabo.maseko1629@example.com,3,Finance,Finance Officer,2020-02-25,True
+1630,Ayanda,Modise,ayanda.modise1630@example.com,3,Sales,Business Development Officer,2022-12-15,True
+1631,Lwazi,Modise,lwazi.modise1631@example.com,3,Sales,Sales Consultant,2018-09-08,True
+1632,Mpho,Mkhize,mpho.mkhize1632@example.com,3,Finance,Accountant,2018-02-15,True
+1633,Sibusiso,Khumalo,sibusiso.khumalo1633@example.com,3,Operations,Team Leader,2022-10-28,True
+1634,Refilwe,Masango,refilwe.masango1634@example.com,3,IT,Support Technician,2023-12-24,True
+1635,Nomsa,Mabaso,nomsa.mabaso1635@example.com,3,Operations,Operations Analyst,2018-01-19,True
+1636,Lesedi,Nkosi,lesedi.nkosi1636@example.com,3,IT,Software Developer,2018-08-16,True
+1637,Siyabonga,Mkhize,siyabonga.mkhize1637@example.com,3,HR,Learning Coordinator,2025-05-08,True
+1638,Neo,Khumalo,neo.khumalo1638@example.com,3,Operations,Operations Analyst,2024-06-03,True
+1639,Lerato,Msimang,lerato.msimang1639@example.com,3,Finance,Finance Officer,2022-07-24,True
+1640,Zanele,Maseko,zanele.maseko1640@example.com,3,Sales,Account Executive,2023-06-26,False
+1641,Nomsa,Modise,nomsa.modise1641@example.com,3,HR,Learning Coordinator,2023-03-14,True
+1642,Tumelo,Mokoena,tumelo.mokoena1642@example.com,3,HR,Learning Coordinator,2019-07-25,True
+1643,Siyabonga,Mabaso,siyabonga.mabaso1643@example.com,3,IT,Systems Administrator,2022-08-28,True
+1644,Lethabo,Mkhwanazi,lethabo.mkhwanazi1644@example.com,3,Sales,Sales Consultant,2022-01-24,True
+1645,Keitumetse,Mokoena,keitumetse.mokoena1645@example.com,3,Sales,Sales Administrator,2023-03-03,True
+1646,Neo,Molefe,neo.molefe1646@example.com,3,Sales,Business Development Officer,2025-03-20,True
+1647,Lesedi,Nkosi,lesedi.nkosi1647@example.com,3,Operations,Operations Officer,2022-09-29,True
+1648,Andile,Motaung,andile.motaung1648@example.com,3,Customer Service,Support Agent,2022-07-29,True
+1649,Neo,Modise,neo.modise1649@example.com,3,Operations,Operations Officer,2019-04-16,True
+1650,Tumelo,Ndlovu,tumelo.ndlovu1650@example.com,3,HR,HR Administrator,2025-09-20,True
+1651,Lesedi,Radebe,lesedi.radebe1651@example.com,3,Customer Service,Support Agent,2021-01-23,True
+1652,Refilwe,Mofokeng,refilwe.mofokeng1652@example.com,3,Customer Service,Support Agent,2021-09-03,True
+1653,Naledi,Mabaso,naledi.mabaso1653@example.com,3,HR,HR Officer,2019-11-12,True
+1654,Bongani,Msimang,bongani.msimang1654@example.com,3,Finance,Payroll Administrator,2023-08-03,True
+1655,Nokuthula,Mokoena,nokuthula.mokoena1655@example.com,3,Sales,Sales Consultant,2020-04-10,True
+1656,Katlego,Mkhwanazi,katlego.mkhwanazi1656@example.com,3,Sales,Sales Administrator,2024-07-27,True
+1657,Bongani,Zulu,bongani.zulu1657@example.com,3,Customer Service,Customer Success Officer,2024-04-06,True
+1658,Tumelo,Molepo,tumelo.molepo1658@example.com,3,HR,Learning Coordinator,2018-11-01,True
+1659,Andile,Mokoena,andile.mokoena1659@example.com,3,Finance,Accountant,2018-10-08,True
+1660,Kagiso,Mokoena,kagiso.mokoena1660@example.com,3,Customer Service,Customer Success Officer,2022-09-16,True
+1661,Ayanda,Modise,ayanda.modise1661@example.com,3,Customer Service,Support Agent,2020-02-29,True
+1662,Palesa,Mokoena,palesa.mokoena1662@example.com,3,IT,Support Technician,2021-07-13,True
+1663,Lethabo,Masango,lethabo.masango1663@example.com,3,Sales,Sales Consultant,2021-07-13,True
+1664,Amahle,Molefe,amahle.molefe1664@example.com,3,Finance,Payroll Administrator,2018-12-27,False
+1665,Palesa,Motsoeneng,palesa.motsoeneng1665@example.com,3,Sales,Business Development Officer,2023-08-25,True
+1666,Bongani,Modise,bongani.modise1666@example.com,3,Operations,Team Leader,2023-11-13,True
+1667,Tebogo,Nkosi,tebogo.nkosi1667@example.com,3,HR,Talent Specialist,2022-06-25,True
+1668,Tebogo,Mahlangu,tebogo.mahlangu1668@example.com,3,HR,Talent Specialist,2026-02-20,True
+1669,Kagiso,Motsoeneng,kagiso.motsoeneng1669@example.com,3,Sales,Business Development Officer,2020-07-15,True
+1670,Neo,Nkosi,neo.nkosi1670@example.com,3,Operations,Coordinator,2019-04-27,True
+1671,Tshepo,Nkosi,tshepo.nkosi1671@example.com,3,HR,Talent Specialist,2025-08-23,True
+1672,Neo,Mokoena,neo.mokoena1672@example.com,3,Operations,Team Leader,2021-12-08,True
+1673,Lerato,Motsoeneng,lerato.motsoeneng1673@example.com,3,Finance,Finance Officer,2025-09-23,True
+1674,Zanele,Mthembu,zanele.mthembu1674@example.com,3,Operations,Coordinator,2021-10-07,True
+1675,Lesedi,Molefe,lesedi.molefe1675@example.com,3,Sales,Account Executive,2022-08-30,True
+1676,Karabo,Mabaso,karabo.mabaso1676@example.com,3,Customer Service,Customer Service Agent,2021-08-24,True
+1677,Sipho,Mokoena,sipho.mokoena1677@example.com,3,HR,HR Administrator,2020-05-25,True
+1678,Anele,Mokoena,anele.mokoena1678@example.com,3,Operations,Coordinator,2024-08-31,True
+1679,Andile,Mhlongo,andile.mhlongo1679@example.com,3,Operations,Operations Officer,2021-08-11,True
+1680,Lethabo,Maseko,lethabo.maseko1680@example.com,3,HR,HR Administrator,2026-02-08,True
+1681,Siyabonga,Mabaso,siyabonga.mabaso1681@example.com,3,HR,Learning Coordinator,2021-01-30,True
+1682,Sibusiso,Mthethwa,sibusiso.mthethwa1682@example.com,3,IT,Support Technician,2025-02-28,True
+1683,Amahle,Mabunda,amahle.mabunda1683@example.com,3,Sales,Sales Administrator,2021-10-08,True
+1684,Siyabonga,Zulu,siyabonga.zulu1684@example.com,3,Operations,Operations Analyst,2018-11-19,True
+1685,Mpho,Mthethwa,mpho.mthethwa1685@example.com,3,Customer Service,Customer Success Officer,2023-06-21,True
+1686,Nomsa,Msimang,nomsa.msimang1686@example.com,3,Finance,Accountant,2026-01-06,True
+1687,Naledi,Mokoena,naledi.mokoena1687@example.com,3,Finance,Financial Analyst,2018-03-23,True
+1688,Refilwe,Mokoena,refilwe.mokoena1688@example.com,3,IT,Software Developer,2018-02-20,True
+1689,Zanele,Mofokeng,zanele.mofokeng1689@example.com,3,HR,Talent Specialist,2026-01-20,True
+1690,Tebogo,Mahlangu,tebogo.mahlangu1690@example.com,3,Operations,Operations Officer,2024-03-25,True
+1691,Tshepo,Molefe,tshepo.molefe1691@example.com,3,Operations,Operations Officer,2019-04-29,True
+1692,Ayanda,Mthembu,ayanda.mthembu1692@example.com,3,Customer Service,Team Leader,2018-11-04,True
+1693,Thabo,Dlamini,thabo.dlamini1693@example.com,3,Operations,Coordinator,2020-04-01,True
+1694,Kagiso,Maseko,kagiso.maseko1694@example.com,3,Customer Service,Support Agent,2021-01-10,True
+1695,Sipho,Nkosi,sipho.nkosi1695@example.com,3,IT,Software Developer,2024-01-18,True
+1696,Mpho,Mthethwa,mpho.mthethwa1696@example.com,3,Sales,Sales Administrator,2021-09-06,True
+1697,Siyabonga,Masango,siyabonga.masango1697@example.com,3,IT,Systems Administrator,2019-03-24,True
+1698,Katlego,Mhlongo,katlego.mhlongo1698@example.com,3,IT,Support Technician,2019-06-10,True
+1699,Neo,Sithole,neo.sithole1699@example.com,3,IT,Systems Administrator,2020-06-11,True
+1700,Nomsa,Khumalo,nomsa.khumalo1700@example.com,3,Operations,Operations Officer,2024-06-28,True
+1701,Keitumetse,Mabena,keitumetse.mabena1701@example.com,3,Finance,Finance Officer,2019-12-11,True
+1702,Zanele,Mkhize,zanele.mkhize1702@example.com,3,Sales,Business Development Officer,2021-11-28,True
+1703,Lethabo,Mokoena,lethabo.mokoena1703@example.com,3,Customer Service,Customer Service Agent,2019-08-20,True
+1704,Boitumelo,Mthethwa,boitumelo.mthethwa1704@example.com,3,HR,Learning Coordinator,2022-07-10,False
+1705,Andile,Mokoena,andile.mokoena1705@example.com,3,Finance,Accountant,2021-11-26,True
+1706,Tshepo,Sithole,tshepo.sithole1706@example.com,3,IT,Systems Administrator,2025-01-10,True
+1707,Palesa,Mofokeng,palesa.mofokeng1707@example.com,3,HR,HR Officer,2025-08-05,True
+1708,Lesedi,Mthembu,lesedi.mthembu1708@example.com,3,Finance,Payroll Administrator,2025-08-17,False
+1709,Karabo,Molepo,karabo.molepo1709@example.com,3,Customer Service,Customer Service Agent,2021-07-05,True
+1710,Naledi,Molefe,naledi.molefe1710@example.com,3,Sales,Account Executive,2025-07-31,False
+1711,Amahle,Molefe,amahle.molefe1711@example.com,3,IT,Support Technician,2021-10-28,True
+1712,Nandi,Msimang,nandi.msimang1712@example.com,3,IT,Software Developer,2021-06-28,True
+1713,Lesedi,Nkosi,lesedi.nkosi1713@example.com,3,Operations,Operations Officer,2024-04-01,True
+1714,Lethabo,Msimang,lethabo.msimang1714@example.com,3,Sales,Business Development Officer,2023-02-28,True
+1715,Sibusiso,Mhlongo,sibusiso.mhlongo1715@example.com,3,Operations,Coordinator,2019-01-26,True
+1716,Katlego,Mokoena,katlego.mokoena1716@example.com,3,Finance,Financial Analyst,2024-03-03,True
+1717,Ayanda,Radebe,ayanda.radebe1717@example.com,3,HR,Talent Specialist,2024-01-17,True
+1718,Anele,Mkhwanazi,anele.mkhwanazi1718@example.com,3,Finance,Accountant,2025-07-16,True
+1719,Refilwe,Mkhwanazi,refilwe.mkhwanazi1719@example.com,3,Operations,Coordinator,2023-06-21,True
+1720,Katlego,Mhlongo,katlego.mhlongo1720@example.com,3,Customer Service,Customer Service Agent,2021-03-17,True
+1721,Lerato,Motsoeneng,lerato.motsoeneng1721@example.com,4,IT,Software Developer,2022-08-28,True
+1722,Lerato,Mabaso,lerato.mabaso1722@example.com,4,Finance,Accountant,2025-06-27,True
+1723,Anele,Sithole,anele.sithole1723@example.com,4,IT,Software Developer,2019-06-10,True
+1724,Palesa,Sithole,palesa.sithole1724@example.com,4,Sales,Business Development Officer,2018-10-07,True
+1725,Bongani,Khumalo,bongani.khumalo1725@example.com,4,HR,HR Administrator,2022-05-21,True
+1726,Zanele,Mahlangu,zanele.mahlangu1726@example.com,4,Sales,Account Executive,2021-03-22,True
+1727,Naledi,Molefe,naledi.molefe1727@example.com,4,IT,Software Developer,2020-05-27,True
+1728,Naledi,Radebe,naledi.radebe1728@example.com,4,Customer Service,Team Leader,2024-01-31,True
+1729,Keitumetse,Mabena,keitumetse.mabena1729@example.com,4,HR,Talent Specialist,2023-05-08,True
+1730,Lwazi,Dlamini,lwazi.dlamini1730@example.com,4,Finance,Finance Officer,2019-04-18,True
+1731,Amahle,Sithole,amahle.sithole1731@example.com,4,Sales,Account Executive,2020-08-26,True
+1732,Boitumelo,Mokoena,boitumelo.mokoena1732@example.com,4,Finance,Accountant,2025-03-26,True
+1733,Mpho,Mokoena,mpho.mokoena1733@example.com,4,HR,Talent Specialist,2018-11-09,True
+1734,Ayanda,Motaung,ayanda.motaung1734@example.com,4,IT,Business Analyst,2018-11-11,True
+1735,Lerato,Nkosi,lerato.nkosi1735@example.com,4,Operations,Operations Analyst,2018-10-19,True
+1736,Ayanda,Maseko,ayanda.maseko1736@example.com,4,Operations,Team Leader,2023-01-06,True
+1737,Zanele,Mthembu,zanele.mthembu1737@example.com,4,Customer Service,Team Leader,2021-04-08,True
+1738,Lerato,Mabena,lerato.mabena1738@example.com,4,IT,Software Developer,2023-12-05,True
+1739,Keitumetse,Mofokeng,keitumetse.mofokeng1739@example.com,4,Sales,Account Executive,2022-11-22,True
+1740,Lethabo,Sithole,lethabo.sithole1740@example.com,4,Sales,Sales Administrator,2024-12-25,True
+1741,Amahle,Molefe,amahle.molefe1741@example.com,4,Customer Service,Customer Success Officer,2019-05-30,True
+1742,Neo,Motaung,neo.motaung1742@example.com,4,Sales,Sales Administrator,2021-02-25,True
+1743,Tumelo,Dlamini,tumelo.dlamini1743@example.com,4,Finance,Payroll Administrator,2018-08-20,True
+1744,Siyabonga,Mthembu,siyabonga.mthembu1744@example.com,4,Sales,Sales Consultant,2023-08-13,True
+1745,Thabo,Radebe,thabo.radebe1745@example.com,4,Customer Service,Support Agent,2022-12-16,True
+1746,Lwazi,Mokoena,lwazi.mokoena1746@example.com,4,HR,Talent Specialist,2022-12-31,True
+1747,Anele,Motsoeneng,anele.motsoeneng1747@example.com,4,IT,Support Technician,2018-07-18,True
+1748,Tshepo,Mabunda,tshepo.mabunda1748@example.com,4,Finance,Financial Analyst,2020-01-27,True
+1749,Tshepo,Zulu,tshepo.zulu1749@example.com,4,Customer Service,Customer Success Officer,2025-11-24,True
+1750,Ayanda,Molefe,ayanda.molefe1750@example.com,4,IT,Systems Administrator,2026-01-16,True
+1751,Lwazi,Mahlangu,lwazi.mahlangu1751@example.com,4,Sales,Sales Administrator,2021-06-06,True
+1752,Tumelo,Motsoeneng,tumelo.motsoeneng1752@example.com,4,Sales,Sales Consultant,2021-12-05,True
+1753,Zanele,Mokoena,zanele.mokoena1753@example.com,4,Operations,Coordinator,2020-05-01,True
+1754,Keitumetse,Zulu,keitumetse.zulu1754@example.com,4,Sales,Account Executive,2025-05-11,True
+1755,Karabo,Mkhwanazi,karabo.mkhwanazi1755@example.com,4,IT,Support Technician,2024-08-02,True
+1756,Sibusiso,Mkhize,sibusiso.mkhize1756@example.com,4,HR,HR Officer,2022-01-05,True
+1757,Sibusiso,Mokoena,sibusiso.mokoena1757@example.com,4,Sales,Sales Consultant,2025-10-17,True
+1758,Lwazi,Motaung,lwazi.motaung1758@example.com,4,Operations,Team Leader,2018-01-05,True
+1759,Lwazi,Modise,lwazi.modise1759@example.com,4,HR,HR Officer,2020-03-15,True
+1760,Anele,Masango,anele.masango1760@example.com,4,Sales,Sales Administrator,2020-08-16,True
+1761,Thabo,Dlamini,thabo.dlamini1761@example.com,4,Sales,Sales Consultant,2021-11-09,True
+1762,Nokuthula,Motaung,nokuthula.motaung1762@example.com,4,Sales,Business Development Officer,2026-01-01,True
+1763,Nomsa,Mhlongo,nomsa.mhlongo1763@example.com,4,Operations,Operations Officer,2018-09-18,True
+1764,Keitumetse,Mabena,keitumetse.mabena1764@example.com,4,Finance,Accountant,2019-03-23,True
+1765,Lerato,Motsoeneng,lerato.motsoeneng1765@example.com,4,Customer Service,Support Agent,2019-05-11,False
+1766,Kagiso,Nkosi,kagiso.nkosi1766@example.com,4,Operations,Operations Officer,2020-06-29,True
+1767,Anele,Radebe,anele.radebe1767@example.com,4,Finance,Finance Officer,2025-11-01,True
+1768,Anele,Radebe,anele.radebe1768@example.com,4,Finance,Accountant,2018-06-07,True
+1769,Nomsa,Mokoena,nomsa.mokoena1769@example.com,4,Finance,Payroll Administrator,2021-02-03,True
+1770,Lethabo,Radebe,lethabo.radebe1770@example.com,4,IT,Systems Administrator,2021-03-03,True
+1771,Lethabo,Dlamini,lethabo.dlamini1771@example.com,4,Customer Service,Customer Service Agent,2024-05-24,True
+1772,Ayanda,Nkosi,ayanda.nkosi1772@example.com,4,Finance,Payroll Administrator,2018-03-19,True
+1773,Thabo,Mkhwanazi,thabo.mkhwanazi1773@example.com,4,IT,Systems Administrator,2024-08-24,True
+1774,Tshepo,Msimang,tshepo.msimang1774@example.com,4,HR,Learning Coordinator,2025-12-28,True
+1775,Sipho,Mkhize,sipho.mkhize1775@example.com,4,Sales,Sales Consultant,2022-09-14,True
+1776,Anele,Zulu,anele.zulu1776@example.com,4,Finance,Financial Analyst,2020-01-21,True
+1777,Siyabonga,Maseko,siyabonga.maseko1777@example.com,4,IT,Software Developer,2025-03-17,True
+1778,Tshepo,Mkhize,tshepo.mkhize1778@example.com,4,HR,Talent Specialist,2023-12-29,True
+1779,Karabo,Masango,karabo.masango1779@example.com,4,HR,Talent Specialist,2018-08-17,True
+1780,Lethabo,Mahlangu,lethabo.mahlangu1780@example.com,4,Sales,Sales Administrator,2018-01-26,True
+1781,Nokuthula,Molepo,nokuthula.molepo1781@example.com,4,Customer Service,Team Leader,2020-06-03,True
+1782,Tebogo,Sithole,tebogo.sithole1782@example.com,4,Sales,Business Development Officer,2019-03-15,True
+1783,Kagiso,Molefe,kagiso.molefe1783@example.com,4,Sales,Sales Administrator,2019-08-27,True
+1784,Andile,Mabunda,andile.mabunda1784@example.com,4,Sales,Business Development Officer,2021-12-30,True
+1785,Nokuthula,Ndlovu,nokuthula.ndlovu1785@example.com,4,Finance,Accountant,2024-11-22,True
+1786,Tebogo,Motsoeneng,tebogo.motsoeneng1786@example.com,4,IT,Software Developer,2018-02-16,True
+1787,Nokuthula,Mhlongo,nokuthula.mhlongo1787@example.com,4,Operations,Operations Officer,2020-04-12,True
+1788,Boitumelo,Zulu,boitumelo.zulu1788@example.com,4,Operations,Coordinator,2024-10-07,True
+1789,Lwazi,Mokoena,lwazi.mokoena1789@example.com,4,Finance,Finance Officer,2026-02-01,True
+1790,Tumelo,Mabunda,tumelo.mabunda1790@example.com,4,IT,Business Analyst,2018-09-27,True
+1791,Katlego,Molefe,katlego.molefe1791@example.com,4,Customer Service,Team Leader,2025-11-24,False
+1792,Ayanda,Khumalo,ayanda.khumalo1792@example.com,4,Customer Service,Support Agent,2020-11-19,True
+1793,Katlego,Sithole,katlego.sithole1793@example.com,4,HR,HR Administrator,2020-12-18,True
+1794,Lwazi,Masango,lwazi.masango1794@example.com,4,IT,Support Technician,2018-02-01,True
+1795,Neo,Zulu,neo.zulu1795@example.com,4,HR,Talent Specialist,2020-04-04,True
+1796,Amahle,Zulu,amahle.zulu1796@example.com,4,Finance,Finance Officer,2022-01-04,True
+1797,Naledi,Zulu,naledi.zulu1797@example.com,4,IT,Systems Administrator,2018-05-24,True
+1798,Siyabonga,Khumalo,siyabonga.khumalo1798@example.com,4,Customer Service,Support Agent,2021-09-07,True
+1799,Andile,Msimang,andile.msimang1799@example.com,4,IT,Software Developer,2023-09-26,True
+1800,Refilwe,Ndlovu,refilwe.ndlovu1800@example.com,4,Customer Service,Customer Success Officer,2022-11-26,True
+1801,Thabo,Mokoena,thabo.mokoena1801@example.com,4,Sales,Sales Administrator,2019-09-07,True
+1802,Naledi,Molefe,naledi.molefe1802@example.com,4,HR,HR Administrator,2018-04-26,True
+1803,Nandi,Mokoena,nandi.mokoena1803@example.com,4,Customer Service,Customer Service Agent,2022-09-10,True
+1804,Boitumelo,Msimang,boitumelo.msimang1804@example.com,4,Sales,Account Executive,2021-08-11,True
+1805,Naledi,Nkosi,naledi.nkosi1805@example.com,4,Sales,Sales Consultant,2025-06-30,True
+1806,Lethabo,Motaung,lethabo.motaung1806@example.com,4,Customer Service,Team Leader,2025-05-05,True
+1807,Nokuthula,Mokoena,nokuthula.mokoena1807@example.com,4,Customer Service,Customer Service Agent,2021-09-03,True
+1808,Tshepo,Nkosi,tshepo.nkosi1808@example.com,4,Operations,Operations Analyst,2021-03-29,True
+1809,Andile,Motsoeneng,andile.motsoeneng1809@example.com,4,Sales,Business Development Officer,2025-08-25,True
+1810,Refilwe,Mthethwa,refilwe.mthethwa1810@example.com,4,HR,Learning Coordinator,2021-09-10,True
+1811,Tebogo,Dlamini,tebogo.dlamini1811@example.com,4,IT,Business Analyst,2019-04-16,True
+1812,Refilwe,Mkhize,refilwe.mkhize1812@example.com,4,HR,HR Officer,2024-11-10,True
+1813,Tebogo,Motaung,tebogo.motaung1813@example.com,4,Customer Service,Customer Success Officer,2018-11-21,True
+1814,Siyabonga,Maseko,siyabonga.maseko1814@example.com,4,Sales,Account Executive,2023-04-18,True
+1815,Kagiso,Khumalo,kagiso.khumalo1815@example.com,4,Customer Service,Customer Service Agent,2018-11-15,True
+1816,Boitumelo,Sithole,boitumelo.sithole1816@example.com,4,Customer Service,Team Leader,2025-10-14,True
+1817,Anele,Maseko,anele.maseko1817@example.com,4,HR,Learning Coordinator,2021-01-08,True
+1818,Lesedi,Mabunda,lesedi.mabunda1818@example.com,4,IT,Business Analyst,2024-12-28,True
+1819,Siyabonga,Khumalo,siyabonga.khumalo1819@example.com,4,Operations,Coordinator,2025-06-18,True
+1820,Siyabonga,Mkhize,siyabonga.mkhize1820@example.com,4,Operations,Team Leader,2019-11-25,True
+1821,Karabo,Ndlovu,karabo.ndlovu1821@example.com,4,IT,Systems Administrator,2023-12-24,True
+1822,Anele,Motaung,anele.motaung1822@example.com,4,Customer Service,Team Leader,2021-08-08,True
+1823,Lerato,Zulu,lerato.zulu1823@example.com,4,Finance,Financial Analyst,2021-11-15,True
+1824,Boitumelo,Mokoena,boitumelo.mokoena1824@example.com,4,Customer Service,Support Agent,2020-06-12,True
+1825,Lerato,Radebe,lerato.radebe1825@example.com,4,Customer Service,Customer Success Officer,2024-04-18,True
+1826,Anele,Mthethwa,anele.mthethwa1826@example.com,4,Finance,Finance Officer,2022-05-27,True
+1827,Tumelo,Mthethwa,tumelo.mthethwa1827@example.com,4,Customer Service,Team Leader,2019-02-23,True
+1828,Anele,Mahlangu,anele.mahlangu1828@example.com,4,Customer Service,Customer Service Agent,2018-05-23,True
+1829,Thabo,Radebe,thabo.radebe1829@example.com,4,HR,Talent Specialist,2022-12-13,False
+1830,Karabo,Nkosi,karabo.nkosi1830@example.com,4,Operations,Operations Officer,2020-08-17,True
+1831,Lwazi,Mkhize,lwazi.mkhize1831@example.com,4,IT,Business Analyst,2025-12-31,True
+1832,Sipho,Mthethwa,sipho.mthethwa1832@example.com,4,Operations,Coordinator,2025-03-30,False
+1833,Zanele,Mkhize,zanele.mkhize1833@example.com,4,IT,Support Technician,2022-03-11,True
+1834,Neo,Mokoena,neo.mokoena1834@example.com,4,Finance,Accountant,2020-05-30,True
+1835,Naledi,Mabaso,naledi.mabaso1835@example.com,4,Finance,Finance Officer,2019-02-13,True
+1836,Lesedi,Molepo,lesedi.molepo1836@example.com,4,Sales,Sales Administrator,2019-04-08,True
+1837,Kagiso,Radebe,kagiso.radebe1837@example.com,4,Operations,Operations Analyst,2024-12-06,True
+1838,Nandi,Maseko,nandi.maseko1838@example.com,4,Customer Service,Support Agent,2019-04-24,True
+1839,Andile,Molefe,andile.molefe1839@example.com,4,Operations,Coordinator,2018-10-10,True
+1840,Nomsa,Mabena,nomsa.mabena1840@example.com,4,Sales,Account Executive,2021-06-20,True
+1841,Tshepo,Sithole,tshepo.sithole1841@example.com,4,Operations,Operations Officer,2023-09-15,True
+1842,Siyabonga,Mkhwanazi,siyabonga.mkhwanazi1842@example.com,4,Operations,Operations Officer,2018-07-05,True
+1843,Keitumetse,Molefe,keitumetse.molefe1843@example.com,4,HR,HR Administrator,2025-04-28,False
+1844,Mpho,Sithole,mpho.sithole1844@example.com,4,Operations,Team Leader,2022-06-02,True
+1845,Neo,Zulu,neo.zulu1845@example.com,4,IT,Support Technician,2021-01-19,True
+1846,Bongani,Mabunda,bongani.mabunda1846@example.com,4,Operations,Team Leader,2018-12-23,True
+1847,Palesa,Nkosi,palesa.nkosi1847@example.com,4,Finance,Finance Officer,2023-08-18,True
+1848,Naledi,Molefe,naledi.molefe1848@example.com,4,HR,Learning Coordinator,2021-09-12,True
+1849,Refilwe,Sithole,refilwe.sithole1849@example.com,4,Customer Service,Team Leader,2022-11-19,True
+1850,Lethabo,Mokoena,lethabo.mokoena1850@example.com,4,HR,HR Officer,2022-10-29,True
+1851,Amahle,Masango,amahle.masango1851@example.com,4,Operations,Coordinator,2021-05-10,True
+1852,Ayanda,Molefe,ayanda.molefe1852@example.com,4,Customer Service,Customer Success Officer,2018-06-27,True
+1853,Lerato,Zulu,lerato.zulu1853@example.com,4,Sales,Sales Administrator,2021-09-30,True
+1854,Naledi,Mabunda,naledi.mabunda1854@example.com,4,Customer Service,Team Leader,2022-09-10,True
+1855,Ayanda,Khumalo,ayanda.khumalo1855@example.com,4,Finance,Financial Analyst,2021-04-17,True
+1856,Refilwe,Molepo,refilwe.molepo1856@example.com,4,Sales,Business Development Officer,2022-10-18,True
+1857,Sipho,Msimang,sipho.msimang1857@example.com,4,Sales,Business Development Officer,2026-01-23,True
+1858,Palesa,Nkosi,palesa.nkosi1858@example.com,4,Customer Service,Team Leader,2025-11-26,True
+1859,Lesedi,Molefe,lesedi.molefe1859@example.com,4,Finance,Payroll Administrator,2021-08-24,True
+1860,Sibusiso,Mkhize,sibusiso.mkhize1860@example.com,4,IT,Business Analyst,2018-12-16,True
+1861,Neo,Mofokeng,neo.mofokeng1861@example.com,4,Customer Service,Team Leader,2022-05-12,True
+1862,Siyabonga,Mokoena,siyabonga.mokoena1862@example.com,4,HR,Learning Coordinator,2019-06-18,True
+1863,Tebogo,Dlamini,tebogo.dlamini1863@example.com,4,HR,Talent Specialist,2022-11-22,True
+1864,Ayanda,Motaung,ayanda.motaung1864@example.com,4,IT,Systems Administrator,2025-08-19,True
+1865,Karabo,Radebe,karabo.radebe1865@example.com,4,IT,Systems Administrator,2021-04-18,True
+1866,Thabo,Modise,thabo.modise1866@example.com,4,IT,Business Analyst,2024-12-24,True
+1867,Lerato,Maseko,lerato.maseko1867@example.com,4,HR,HR Administrator,2025-11-16,True
+1868,Lethabo,Molefe,lethabo.molefe1868@example.com,4,Sales,Business Development Officer,2024-05-13,True
+1869,Bongani,Khumalo,bongani.khumalo1869@example.com,4,Customer Service,Team Leader,2020-03-07,True
+1870,Lesedi,Modise,lesedi.modise1870@example.com,4,Sales,Sales Consultant,2021-11-27,True
+1871,Boitumelo,Mahlangu,boitumelo.mahlangu1871@example.com,4,IT,Systems Administrator,2021-04-28,True
+1872,Tumelo,Maseko,tumelo.maseko1872@example.com,4,Finance,Financial Analyst,2024-02-21,True
+1873,Katlego,Mokoena,katlego.mokoena1873@example.com,4,HR,HR Administrator,2024-10-12,True
+1874,Andile,Mokoena,andile.mokoena1874@example.com,4,IT,Business Analyst,2023-05-12,True
+1875,Siyabonga,Mkhize,siyabonga.mkhize1875@example.com,4,Operations,Team Leader,2019-07-06,True
+1876,Mpho,Molepo,mpho.molepo1876@example.com,4,Sales,Business Development Officer,2024-01-10,False
+1877,Amahle,Mokoena,amahle.mokoena1877@example.com,4,IT,Support Technician,2019-03-10,True
+1878,Refilwe,Dlamini,refilwe.dlamini1878@example.com,4,Customer Service,Customer Service Agent,2019-12-21,True
+1879,Sipho,Mthembu,sipho.mthembu1879@example.com,4,IT,Business Analyst,2020-12-04,True
+1880,Nomsa,Mahlangu,nomsa.mahlangu1880@example.com,4,Finance,Payroll Administrator,2025-01-17,True
+1881,Tumelo,Maseko,tumelo.maseko1881@example.com,4,IT,Systems Administrator,2019-01-11,True
+1882,Siyabonga,Dlamini,siyabonga.dlamini1882@example.com,4,Operations,Operations Officer,2019-02-23,True
+1883,Lerato,Mokoena,lerato.mokoena1883@example.com,4,IT,Support Technician,2018-06-26,True
+1884,Refilwe,Ndlovu,refilwe.ndlovu1884@example.com,4,Sales,Sales Consultant,2018-05-04,True
+1885,Andile,Mabaso,andile.mabaso1885@example.com,4,Customer Service,Team Leader,2023-09-06,True
+1886,Lerato,Mofokeng,lerato.mofokeng1886@example.com,4,Operations,Operations Officer,2018-09-09,True
+1887,Palesa,Mokoena,palesa.mokoena1887@example.com,4,Operations,Team Leader,2018-10-23,True
+1888,Lerato,Molefe,lerato.molefe1888@example.com,4,Sales,Business Development Officer,2020-03-01,True
+1889,Anele,Mokoena,anele.mokoena1889@example.com,4,Finance,Accountant,2018-12-22,True
+1890,Palesa,Dlamini,palesa.dlamini1890@example.com,4,HR,Learning Coordinator,2021-12-18,True
+1891,Siyabonga,Mofokeng,siyabonga.mofokeng1891@example.com,4,Finance,Payroll Administrator,2023-11-15,True
+1892,Boitumelo,Mokoena,boitumelo.mokoena1892@example.com,4,Sales,Account Executive,2018-08-15,True
+1893,Naledi,Mthembu,naledi.mthembu1893@example.com,4,Operations,Operations Analyst,2019-03-25,True
+1894,Tebogo,Molepo,tebogo.molepo1894@example.com,4,Operations,Operations Analyst,2019-03-14,True
+1895,Nomsa,Ndlovu,nomsa.ndlovu1895@example.com,4,Operations,Operations Officer,2024-04-06,True
+1896,Tebogo,Mkhize,tebogo.mkhize1896@example.com,4,Customer Service,Support Agent,2025-11-20,True
+1897,Boitumelo,Motsoeneng,boitumelo.motsoeneng1897@example.com,4,IT,Software Developer,2021-03-07,True
+1898,Thabo,Motsoeneng,thabo.motsoeneng1898@example.com,4,Sales,Sales Administrator,2025-03-07,True
+1899,Siyabonga,Khumalo,siyabonga.khumalo1899@example.com,4,Finance,Payroll Administrator,2024-06-01,True
+1900,Nokuthula,Mthembu,nokuthula.mthembu1900@example.com,4,Sales,Business Development Officer,2023-01-14,True
+1901,Lwazi,Msimang,lwazi.msimang1901@example.com,5,IT,Support Technician,2020-06-18,True
+1902,Lerato,Mokoena,lerato.mokoena1902@example.com,5,Sales,Business Development Officer,2020-08-06,True
+1903,Keitumetse,Nkosi,keitumetse.nkosi1903@example.com,5,Customer Service,Customer Success Officer,2018-05-08,True
+1904,Kagiso,Mokoena,kagiso.mokoena1904@example.com,5,HR,HR Officer,2024-07-26,True
+1905,Nandi,Modise,nandi.modise1905@example.com,5,Customer Service,Support Agent,2025-12-05,True
+1906,Bongani,Mthembu,bongani.mthembu1906@example.com,5,Sales,Business Development Officer,2024-11-20,True
+1907,Siyabonga,Sithole,siyabonga.sithole1907@example.com,5,Customer Service,Customer Success Officer,2019-02-18,True
+1908,Neo,Mahlangu,neo.mahlangu1908@example.com,5,Sales,Sales Consultant,2023-11-12,False
+1909,Tshepo,Mofokeng,tshepo.mofokeng1909@example.com,5,Sales,Business Development Officer,2019-11-25,True
+1910,Anele,Nkosi,anele.nkosi1910@example.com,5,HR,HR Officer,2023-03-05,True
+1911,Siyabonga,Molefe,siyabonga.molefe1911@example.com,5,Sales,Business Development Officer,2025-01-28,True
+1912,Andile,Mabena,andile.mabena1912@example.com,5,IT,Systems Administrator,2021-01-17,True
+1913,Andile,Molefe,andile.molefe1913@example.com,5,IT,Software Developer,2021-12-11,True
+1914,Katlego,Zulu,katlego.zulu1914@example.com,5,HR,Talent Specialist,2021-07-07,True
+1915,Tshepo,Dlamini,tshepo.dlamini1915@example.com,5,Customer Service,Customer Service Agent,2026-03-04,True
+1916,Palesa,Molefe,palesa.molefe1916@example.com,5,Customer Service,Customer Service Agent,2024-09-26,True
+1917,Lethabo,Mkhwanazi,lethabo.mkhwanazi1917@example.com,5,IT,Software Developer,2022-11-08,True
+1918,Amahle,Modise,amahle.modise1918@example.com,5,HR,Talent Specialist,2021-01-27,True
+1919,Refilwe,Modise,refilwe.modise1919@example.com,5,Customer Service,Customer Success Officer,2025-08-28,False
+1920,Palesa,Mthethwa,palesa.mthethwa1920@example.com,5,IT,Software Developer,2019-11-02,True
+1921,Lerato,Radebe,lerato.radebe1921@example.com,5,Customer Service,Customer Service Agent,2025-01-23,True
+1922,Katlego,Mkhize,katlego.mkhize1922@example.com,5,Finance,Accountant,2018-05-26,True
+1923,Sibusiso,Mkhwanazi,sibusiso.mkhwanazi1923@example.com,5,Operations,Team Leader,2022-09-04,True
+1924,Lwazi,Mkhize,lwazi.mkhize1924@example.com,5,Operations,Team Leader,2020-07-23,True
+1925,Neo,Mkhize,neo.mkhize1925@example.com,5,HR,Talent Specialist,2018-04-07,True
+1926,Bongani,Khumalo,bongani.khumalo1926@example.com,5,Operations,Coordinator,2024-10-01,True
+1927,Sibusiso,Mabaso,sibusiso.mabaso1927@example.com,5,Finance,Accountant,2022-09-23,True
+1928,Andile,Mokoena,andile.mokoena1928@example.com,5,HR,HR Officer,2021-01-12,True
+1929,Amahle,Mkhwanazi,amahle.mkhwanazi1929@example.com,5,Finance,Finance Officer,2024-01-14,True
+1930,Mpho,Zulu,mpho.zulu1930@example.com,5,Sales,Business Development Officer,2021-12-16,True
+1931,Ayanda,Mthethwa,ayanda.mthethwa1931@example.com,5,Customer Service,Customer Service Agent,2024-09-05,True
+1932,Ayanda,Mkhize,ayanda.mkhize1932@example.com,5,Sales,Sales Administrator,2022-02-19,True
+1933,Lerato,Mhlongo,lerato.mhlongo1933@example.com,5,HR,Learning Coordinator,2023-11-14,True
+1934,Siyabonga,Ndlovu,siyabonga.ndlovu1934@example.com,5,Finance,Financial Analyst,2026-03-19,False
+1935,Katlego,Maseko,katlego.maseko1935@example.com,5,Customer Service,Support Agent,2024-09-19,False
+1936,Kagiso,Mokoena,kagiso.mokoena1936@example.com,5,Sales,Account Executive,2019-02-02,True
+1937,Nandi,Dlamini,nandi.dlamini1937@example.com,5,Finance,Finance Officer,2025-05-05,True
+1938,Boitumelo,Mkhize,boitumelo.mkhize1938@example.com,5,Operations,Operations Analyst,2023-05-18,True
+1939,Tshepo,Molepo,tshepo.molepo1939@example.com,5,Sales,Sales Administrator,2021-04-07,True
+1940,Nomsa,Mkhize,nomsa.mkhize1940@example.com,5,Finance,Payroll Administrator,2026-01-25,True
+1941,Ayanda,Mokoena,ayanda.mokoena1941@example.com,5,Sales,Account Executive,2024-04-21,True
+1942,Palesa,Molepo,palesa.molepo1942@example.com,5,Sales,Sales Consultant,2025-07-04,True
+1943,Nomsa,Mabaso,nomsa.mabaso1943@example.com,5,Sales,Sales Consultant,2026-01-26,True
+1944,Keitumetse,Mabena,keitumetse.mabena1944@example.com,5,HR,HR Administrator,2020-06-19,True
+1945,Sibusiso,Mkhwanazi,sibusiso.mkhwanazi1945@example.com,5,Customer Service,Customer Service Agent,2024-10-06,True
+1946,Anele,Mabunda,anele.mabunda1946@example.com,5,Operations,Operations Analyst,2025-11-09,True
+1947,Tumelo,Khumalo,tumelo.khumalo1947@example.com,5,Customer Service,Customer Service Agent,2022-03-08,True
+1948,Kagiso,Zulu,kagiso.zulu1948@example.com,5,HR,Learning Coordinator,2018-01-30,True
+1949,Lerato,Mahlangu,lerato.mahlangu1949@example.com,5,Sales,Account Executive,2025-11-13,True
+1950,Neo,Motaung,neo.motaung1950@example.com,5,Operations,Coordinator,2025-12-27,True
+1951,Keitumetse,Mofokeng,keitumetse.mofokeng1951@example.com,5,Sales,Sales Administrator,2018-06-17,True
+1952,Lwazi,Molepo,lwazi.molepo1952@example.com,5,IT,Business Analyst,2019-03-03,True
+1953,Kagiso,Mokoena,kagiso.mokoena1953@example.com,5,Customer Service,Team Leader,2019-06-02,True
+1954,Sipho,Mokoena,sipho.mokoena1954@example.com,5,Operations,Coordinator,2025-02-19,False
+1955,Nandi,Radebe,nandi.radebe1955@example.com,5,Customer Service,Customer Service Agent,2021-05-03,True
+1956,Sipho,Mokoena,sipho.mokoena1956@example.com,5,Customer Service,Team Leader,2018-02-01,True
+1957,Ayanda,Molefe,ayanda.molefe1957@example.com,5,IT,Systems Administrator,2019-02-04,True
+1958,Nomsa,Mhlongo,nomsa.mhlongo1958@example.com,5,HR,Learning Coordinator,2025-02-25,True
+1959,Neo,Motsoeneng,neo.motsoeneng1959@example.com,5,IT,Support Technician,2020-05-24,True
+1960,Ayanda,Nkosi,ayanda.nkosi1960@example.com,5,Sales,Sales Consultant,2022-02-07,True
+1961,Amahle,Maseko,amahle.maseko1961@example.com,5,HR,Talent Specialist,2025-05-16,True
+1962,Karabo,Mokoena,karabo.mokoena1962@example.com,5,Sales,Sales Consultant,2020-08-13,True
+1963,Anele,Mokoena,anele.mokoena1963@example.com,5,Customer Service,Team Leader,2020-04-02,True
+1964,Zanele,Mokoena,zanele.mokoena1964@example.com,5,Finance,Financial Analyst,2026-01-27,True
+1965,Nokuthula,Mkhize,nokuthula.mkhize1965@example.com,5,Operations,Coordinator,2023-04-27,True
+1966,Nokuthula,Mokoena,nokuthula.mokoena1966@example.com,5,Operations,Operations Analyst,2022-09-04,True
+1967,Mpho,Dlamini,mpho.dlamini1967@example.com,5,Finance,Payroll Administrator,2020-07-31,True
+1968,Boitumelo,Masango,boitumelo.masango1968@example.com,5,Finance,Payroll Administrator,2018-03-19,True
+1969,Tumelo,Khumalo,tumelo.khumalo1969@example.com,5,Operations,Operations Officer,2025-01-23,True
+1970,Zanele,Mthembu,zanele.mthembu1970@example.com,5,HR,Learning Coordinator,2023-05-25,True
+1971,Siyabonga,Maseko,siyabonga.maseko1971@example.com,5,IT,Support Technician,2022-06-21,True
+1972,Tebogo,Mthethwa,tebogo.mthethwa1972@example.com,5,Finance,Financial Analyst,2025-06-15,True
+1973,Neo,Mofokeng,neo.mofokeng1973@example.com,5,HR,Talent Specialist,2022-01-07,True
+1974,Andile,Mahlangu,andile.mahlangu1974@example.com,5,Customer Service,Team Leader,2022-07-10,True
+1975,Lerato,Radebe,lerato.radebe1975@example.com,5,Operations,Team Leader,2024-12-29,True
+1976,Katlego,Mthembu,katlego.mthembu1976@example.com,5,IT,Business Analyst,2021-09-30,True
+1977,Tebogo,Mhlongo,tebogo.mhlongo1977@example.com,5,HR,Learning Coordinator,2025-06-09,True
+1978,Lesedi,Masango,lesedi.masango1978@example.com,5,IT,Software Developer,2023-07-27,True
+1979,Naledi,Ndlovu,naledi.ndlovu1979@example.com,5,HR,HR Officer,2019-06-30,True
+1980,Nandi,Nkosi,nandi.nkosi1980@example.com,5,HR,HR Officer,2018-03-12,True
+1981,Zanele,Mthembu,zanele.mthembu1981@example.com,5,IT,Systems Administrator,2019-01-08,True
+1982,Refilwe,Dlamini,refilwe.dlamini1982@example.com,5,Sales,Account Executive,2019-11-22,True
+1983,Thabo,Molepo,thabo.molepo1983@example.com,5,Sales,Sales Consultant,2022-10-28,True
+1984,Andile,Mkhize,andile.mkhize1984@example.com,5,Operations,Operations Officer,2022-07-18,True
+1985,Refilwe,Masango,refilwe.masango1985@example.com,5,Customer Service,Support Agent,2024-09-17,True
+1986,Tebogo,Mkhwanazi,tebogo.mkhwanazi1986@example.com,5,HR,Learning Coordinator,2025-01-02,True
+1987,Tebogo,Ndlovu,tebogo.ndlovu1987@example.com,5,HR,Learning Coordinator,2020-08-25,False
+1988,Nokuthula,Sithole,nokuthula.sithole1988@example.com,5,Customer Service,Support Agent,2022-08-27,True
+1989,Boitumelo,Molefe,boitumelo.molefe1989@example.com,5,HR,HR Administrator,2024-11-04,True
+1990,Sibusiso,Maseko,sibusiso.maseko1990@example.com,5,IT,Business Analyst,2023-04-17,True
+1991,Nokuthula,Mabena,nokuthula.mabena1991@example.com,5,HR,HR Officer,2022-02-02,True
+1992,Sibusiso,Msimang,sibusiso.msimang1992@example.com,5,Sales,Sales Administrator,2020-10-15,True
+1993,Naledi,Mthethwa,naledi.mthethwa1993@example.com,5,Sales,Sales Consultant,2021-11-15,True
+1994,Tshepo,Sithole,tshepo.sithole1994@example.com,5,Customer Service,Team Leader,2021-02-21,True
+1995,Siyabonga,Mthethwa,siyabonga.mthethwa1995@example.com,5,Customer Service,Customer Success Officer,2018-07-01,True
+1996,Tebogo,Khumalo,tebogo.khumalo1996@example.com,5,Operations,Operations Analyst,2024-05-12,True
+1997,Tebogo,Mokoena,tebogo.mokoena1997@example.com,5,IT,Systems Administrator,2025-12-13,True
+1998,Ayanda,Mokoena,ayanda.mokoena1998@example.com,5,IT,Software Developer,2018-11-28,True
+1999,Tshepo,Mkhize,tshepo.mkhize1999@example.com,5,HR,Talent Specialist,2018-02-07,True
+2000,Tshepo,Mhlongo,tshepo.mhlongo2000@example.com,5,Finance,Financial Analyst,2021-01-27,True
+2001,Katlego,Molepo,katlego.molepo2001@example.com,5,IT,Software Developer,2025-09-17,True
+2002,Nokuthula,Mabunda,nokuthula.mabunda2002@example.com,5,Sales,Sales Administrator,2025-05-09,True
+2003,Refilwe,Mthethwa,refilwe.mthethwa2003@example.com,5,Operations,Team Leader,2020-09-28,True
+2004,Andile,Mahlangu,andile.mahlangu2004@example.com,5,Sales,Business Development Officer,2022-06-21,True
+2005,Boitumelo,Motaung,boitumelo.motaung2005@example.com,5,Customer Service,Customer Service Agent,2026-02-20,True
+2006,Bongani,Mkhize,bongani.mkhize2006@example.com,5,Operations,Operations Analyst,2025-12-11,True
+2007,Lesedi,Mahlangu,lesedi.mahlangu2007@example.com,5,Finance,Financial Analyst,2020-12-28,True
+2008,Lethabo,Maseko,lethabo.maseko2008@example.com,5,IT,Software Developer,2021-04-12,True
+2009,Ayanda,Dlamini,ayanda.dlamini2009@example.com,5,Customer Service,Customer Service Agent,2022-12-17,True
+2010,Lethabo,Motsoeneng,lethabo.motsoeneng2010@example.com,5,Finance,Accountant,2018-04-02,True
+2011,Neo,Mkhwanazi,neo.mkhwanazi2011@example.com,5,Operations,Coordinator,2024-07-11,True
+2012,Ayanda,Motaung,ayanda.motaung2012@example.com,5,Operations,Coordinator,2020-11-19,True
+2013,Nomsa,Molepo,nomsa.molepo2013@example.com,5,Operations,Team Leader,2022-11-05,True
+2014,Palesa,Mthethwa,palesa.mthethwa2014@example.com,5,Operations,Operations Analyst,2024-05-20,False
+2015,Palesa,Mokoena,palesa.mokoena2015@example.com,5,HR,HR Administrator,2024-01-12,True
+2016,Lethabo,Mofokeng,lethabo.mofokeng2016@example.com,5,Finance,Accountant,2025-08-31,True
+2017,Boitumelo,Molepo,boitumelo.molepo2017@example.com,5,IT,Support Technician,2021-04-01,False
+2018,Kagiso,Molepo,kagiso.molepo2018@example.com,5,IT,Business Analyst,2019-02-03,True
+2019,Nokuthula,Mkhize,nokuthula.mkhize2019@example.com,5,Customer Service,Customer Success Officer,2020-08-06,True
+2020,Mpho,Modise,mpho.modise2020@example.com,5,Customer Service,Team Leader,2018-06-22,True
+2021,Lwazi,Dlamini,lwazi.dlamini2021@example.com,6,Sales,Sales Consultant,2024-03-12,False
+2022,Andile,Mokoena,andile.mokoena2022@example.com,6,Operations,Team Leader,2025-09-27,True
+2023,Tshepo,Ndlovu,tshepo.ndlovu2023@example.com,6,Sales,Sales Administrator,2023-12-13,False
+2024,Palesa,Msimang,palesa.msimang2024@example.com,6,Customer Service,Team Leader,2020-04-28,True
+2025,Karabo,Ndlovu,karabo.ndlovu2025@example.com,6,Finance,Accountant,2022-06-01,True
+2026,Lwazi,Mkhwanazi,lwazi.mkhwanazi2026@example.com,6,HR,HR Administrator,2021-04-30,True
+2027,Nandi,Molefe,nandi.molefe2027@example.com,6,IT,Business Analyst,2019-12-21,True
+2028,Bongani,Molefe,bongani.molefe2028@example.com,6,IT,Business Analyst,2025-07-05,True
+2029,Tumelo,Maseko,tumelo.maseko2029@example.com,6,HR,HR Officer,2023-05-03,True
+2030,Neo,Ndlovu,neo.ndlovu2030@example.com,6,Finance,Finance Officer,2022-12-14,True
+2031,Kagiso,Mokoena,kagiso.mokoena2031@example.com,6,HR,Learning Coordinator,2018-04-13,True
+2032,Lwazi,Motsoeneng,lwazi.motsoeneng2032@example.com,6,Customer Service,Customer Service Agent,2020-09-13,True
+2033,Zanele,Mabunda,zanele.mabunda2033@example.com,6,Operations,Operations Analyst,2020-08-29,True
+2034,Lesedi,Modise,lesedi.modise2034@example.com,6,Customer Service,Team Leader,2022-01-30,True
+2035,Nandi,Zulu,nandi.zulu2035@example.com,6,IT,Support Technician,2023-04-21,True
+2036,Neo,Mahlangu,neo.mahlangu2036@example.com,6,HR,HR Officer,2022-04-28,True
+2037,Nandi,Molefe,nandi.molefe2037@example.com,6,Operations,Operations Officer,2025-12-10,True
+2038,Ayanda,Masango,ayanda.masango2038@example.com,6,Operations,Coordinator,2025-09-18,True
+2039,Sibusiso,Motaung,sibusiso.motaung2039@example.com,6,IT,Systems Administrator,2023-02-21,True
+2040,Nokuthula,Mthembu,nokuthula.mthembu2040@example.com,6,Sales,Business Development Officer,2019-03-14,True
+2041,Katlego,Mthethwa,katlego.mthethwa2041@example.com,6,IT,Software Developer,2022-01-05,True
+2042,Andile,Molefe,andile.molefe2042@example.com,6,IT,Support Technician,2024-03-21,True
+2043,Palesa,Mthembu,palesa.mthembu2043@example.com,6,Customer Service,Support Agent,2020-12-22,True
+2044,Tebogo,Mhlongo,tebogo.mhlongo2044@example.com,6,IT,Software Developer,2023-09-06,True
+2045,Ayanda,Mkhize,ayanda.mkhize2045@example.com,6,HR,HR Administrator,2018-10-15,True
+2046,Boitumelo,Sithole,boitumelo.sithole2046@example.com,6,Finance,Payroll Administrator,2022-02-02,True
+2047,Zanele,Mthethwa,zanele.mthethwa2047@example.com,6,Operations,Operations Officer,2018-12-03,True
+2048,Sibusiso,Motaung,sibusiso.motaung2048@example.com,6,Finance,Finance Officer,2024-10-19,True
+2049,Nomsa,Motaung,nomsa.motaung2049@example.com,6,Customer Service,Team Leader,2019-10-26,True
+2050,Lethabo,Mhlongo,lethabo.mhlongo2050@example.com,6,Sales,Sales Consultant,2025-01-25,True
+2051,Sipho,Mthethwa,sipho.mthethwa2051@example.com,6,Operations,Operations Officer,2020-09-13,True
+2052,Zanele,Motsoeneng,zanele.motsoeneng2052@example.com,6,Sales,Business Development Officer,2022-02-20,True
+2053,Tebogo,Mthembu,tebogo.mthembu2053@example.com,6,Customer Service,Customer Service Agent,2019-10-03,True
+2054,Mpho,Molefe,mpho.molefe2054@example.com,6,IT,Support Technician,2019-05-04,True
+2055,Tebogo,Mokoena,tebogo.mokoena2055@example.com,6,Operations,Coordinator,2022-03-17,True
+2056,Neo,Khumalo,neo.khumalo2056@example.com,6,HR,Learning Coordinator,2020-01-05,False
+2057,Zanele,Masango,zanele.masango2057@example.com,6,Operations,Operations Officer,2019-04-05,True
+2058,Tumelo,Modise,tumelo.modise2058@example.com,6,IT,Software Developer,2019-05-15,True
+2059,Katlego,Masango,katlego.masango2059@example.com,6,Finance,Accountant,2019-05-17,False
+2060,Katlego,Mofokeng,katlego.mofokeng2060@example.com,6,HR,Learning Coordinator,2024-03-24,True
+2061,Keitumetse,Mahlangu,keitumetse.mahlangu2061@example.com,6,Operations,Team Leader,2022-02-17,True
+2062,Nomsa,Masango,nomsa.masango2062@example.com,6,Sales,Account Executive,2021-11-07,True
+2063,Nomsa,Khumalo,nomsa.khumalo2063@example.com,6,Sales,Sales Consultant,2025-02-16,True
+2064,Ayanda,Masango,ayanda.masango2064@example.com,6,Sales,Business Development Officer,2024-02-27,True
+2065,Neo,Mkhwanazi,neo.mkhwanazi2065@example.com,6,Finance,Finance Officer,2021-02-22,True
+2066,Zanele,Mthembu,zanele.mthembu2066@example.com,6,Customer Service,Customer Success Officer,2022-12-14,True
+2067,Zanele,Mokoena,zanele.mokoena2067@example.com,6,Customer Service,Team Leader,2020-08-30,True
+2068,Tebogo,Radebe,tebogo.radebe2068@example.com,6,IT,Business Analyst,2023-05-06,True
+2069,Boitumelo,Mabena,boitumelo.mabena2069@example.com,6,IT,Systems Administrator,2018-03-01,True
+2070,Zanele,Sithole,zanele.sithole2070@example.com,6,HR,HR Officer,2019-10-09,True
+2071,Andile,Masango,andile.masango2071@example.com,6,IT,Business Analyst,2025-12-23,True
+2072,Lethabo,Motsoeneng,lethabo.motsoeneng2072@example.com,6,Finance,Payroll Administrator,2019-08-24,True
+2073,Tumelo,Mokoena,tumelo.mokoena2073@example.com,6,IT,Support Technician,2025-03-27,True
+2074,Neo,Dlamini,neo.dlamini2074@example.com,6,HR,Learning Coordinator,2023-06-27,True
+2075,Tshepo,Radebe,tshepo.radebe2075@example.com,6,Finance,Accountant,2024-12-17,True
+2076,Tebogo,Msimang,tebogo.msimang2076@example.com,6,HR,Talent Specialist,2019-03-16,True
+2077,Katlego,Mabena,katlego.mabena2077@example.com,6,Sales,Sales Consultant,2022-01-09,True
+2078,Tebogo,Mthembu,tebogo.mthembu2078@example.com,6,Customer Service,Customer Success Officer,2018-07-07,False
+2079,Lerato,Ndlovu,lerato.ndlovu2079@example.com,6,Operations,Operations Analyst,2019-01-30,True
+2080,Kagiso,Nkosi,kagiso.nkosi2080@example.com,6,Sales,Sales Consultant,2020-06-04,True
+2081,Nandi,Mkhwanazi,nandi.mkhwanazi2081@example.com,6,IT,Systems Administrator,2020-08-25,True
+2082,Keitumetse,Molepo,keitumetse.molepo2082@example.com,6,HR,HR Administrator,2019-12-05,True
+2083,Naledi,Mthembu,naledi.mthembu2083@example.com,6,Operations,Coordinator,2020-01-06,True
+2084,Keitumetse,Masango,keitumetse.masango2084@example.com,6,Customer Service,Customer Success Officer,2020-03-05,False
+2085,Tshepo,Mthethwa,tshepo.mthethwa2085@example.com,6,Operations,Team Leader,2023-01-13,True
+2086,Tumelo,Khumalo,tumelo.khumalo2086@example.com,6,Customer Service,Customer Success Officer,2018-08-17,True
+2087,Refilwe,Khumalo,refilwe.khumalo2087@example.com,6,IT,Business Analyst,2025-11-29,True
+2088,Bongani,Mofokeng,bongani.mofokeng2088@example.com,6,Sales,Business Development Officer,2023-05-19,True
+2089,Lesedi,Mofokeng,lesedi.mofokeng2089@example.com,6,Operations,Team Leader,2021-08-27,True
+2090,Nandi,Mokoena,nandi.mokoena2090@example.com,6,Finance,Payroll Administrator,2021-06-13,True
+2091,Keitumetse,Radebe,keitumetse.radebe2091@example.com,6,HR,Talent Specialist,2022-11-29,True
+2092,Lesedi,Mhlongo,lesedi.mhlongo2092@example.com,6,Operations,Coordinator,2018-07-21,True
+2093,Tebogo,Khumalo,tebogo.khumalo2093@example.com,6,IT,Support Technician,2024-06-18,True
+2094,Nandi,Ndlovu,nandi.ndlovu2094@example.com,6,HR,HR Administrator,2025-07-12,True
+2095,Lwazi,Mkhwanazi,lwazi.mkhwanazi2095@example.com,6,Operations,Operations Analyst,2022-10-14,True
+2096,Amahle,Motaung,amahle.motaung2096@example.com,6,IT,Software Developer,2024-04-03,True
+2097,Tshepo,Zulu,tshepo.zulu2097@example.com,6,Sales,Business Development Officer,2023-02-07,True
+2098,Tshepo,Molefe,tshepo.molefe2098@example.com,6,IT,Systems Administrator,2023-11-29,True
+2099,Naledi,Mokoena,naledi.mokoena2099@example.com,6,Sales,Sales Administrator,2023-12-15,True
+2100,Nokuthula,Mahlangu,nokuthula.mahlangu2100@example.com,6,HR,Learning Coordinator,2024-10-21,True

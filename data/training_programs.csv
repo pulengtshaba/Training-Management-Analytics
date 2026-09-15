@@ -1,0 +1,13 @@
+﻿TrainingProgramId,ProgramName,Category,DurationHours,CostPerParticipant,PassingScore,IsActive
+1,Cybersecurity Awareness,Compliance,4,500,70,True
+2,Workplace Health & Safety,Compliance,6,750,70,True
+3,Power BI Fundamentals,Data,16,2500,70,True
+4,Azure Fundamentals,Cloud,16,3000,70,True
+5,ASP.NET Core Development,Development,24,4500,70,True
+6,Leadership Essentials,Leadership,16,3500,70,True
+7,Customer Service Excellence,Customer Service,8,1200,70,True
+8,Project Management Fundamentals,Management,20,3800,70,True
+9,Advanced Excel,Productivity,12,1800,70,True
+10,Data Protection & POPIA,Compliance,4,600,70,True
+11,SQL Fundamentals,Data,18,2800,70,True
+12,DevOps Foundations,Development,20,4000,70,True
