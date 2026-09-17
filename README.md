@@ -347,7 +347,7 @@ Provides organization-level monitoring of:
 - Training cost
 - Performance trends
 
-![Executive Overview - Dashboard](./screenshots/Executive_Overview.png)
+![Executive Overview - Page](./screenshots/Executive_Overview.png)
 
 ### 2. Program Performance
 
@@ -359,6 +359,8 @@ Analyzes:
 - Attendance
 - Program ranking
 - Program contribution to total training activity
+
+![Program_Performance - Page](./screenshots/Program_Performance.png)
 
 ### 3. Employee Analysis
 
