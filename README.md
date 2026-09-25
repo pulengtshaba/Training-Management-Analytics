@@ -362,6 +362,10 @@ Analyzes:
 
 ![Program_Performance - Page](./screenshots/Program_Performance.png)
 
+![Program Tooltip - Page](./screenshots/Program_Tooltip.png)
+
+![Program Detail - Page](./screenshots/Program_Detail.png)
+
 ### 3. Employee Analysis
 
 Supports analysis of:
@@ -372,9 +376,17 @@ Supports analysis of:
 - Training hours
 - Employee home branch
 
+![Employee Analysis - Page](./screenshots/Employee_Analysis.png)
+
+![Employee Detail - Page](./screenshots/Employee_Detail.png)
+
 ### 4. Branch Performance
 
 Compares employee training outcomes across organizational branches using the employee's **home branch**.
+
+![Branch Performance - Page](./screenshots/Branch_Performance.png)
+
+![Branch Detail - Page](./screenshots/Branch_Detail.png)
 
 ### 5. Training Operations
 
@@ -387,6 +399,10 @@ Focuses on event delivery, including:
 - Attendance
 - Operational exceptions
 
+![Training Operations - Page](./screenshots/Training_Operations.png)
+
+![Event Detail - Page](./screenshots/Event_Detail.png)
+
 ### 6. Trend Analysis
 
 Provides:
@@ -398,6 +414,8 @@ Provides:
 - Registration trends
 - No-show trends
 - Rolling averages
+
+![Trend Analysis - Page](./screenshots/.png)
 
 ### 7. Training Investment
 
